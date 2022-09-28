@@ -1,0 +1,901 @@
+Year;Month;Day;match;home_team;away_team;home_score;away_score;tournament;city;country;latitude;longitude;neutral;Winner;Loser;SG;Brasil
+1930;7;13;Belgium 0 x 3 United States;Belgium;United States;0;3;FIFA World Cup;Montevideo;Uruguay;;;TRUE;United States;Belgium;3;#N/D
+1930;7;13;France 4 x 1 Mexico;France;Mexico;4;1;FIFA World Cup;Montevideo;Uruguay;;;TRUE;France;Mexico;3;#N/D
+1930;7;14;Brazil 1 x 2 Yugoslavia;Brazil;Yugoslavia;1;2;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Yugoslavia;Brazil;1;BR
+1930;7;14;Peru 1 x 3 Romania;Peru;Romania;1;3;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Romania;Peru;2;#N/D
+1930;7;15;Argentina 1 x 0 France;Argentina;France;1;0;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Argentina;France;1;#N/D
+1930;7;16;Chile 3 x 0 Mexico;Chile;Mexico;3;0;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Chile;Mexico;3;#N/D
+1930;7;17;Bolivia 0 x 4 Yugoslavia;Bolivia;Yugoslavia;0;4;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Yugoslavia;Bolivia;4;#N/D
+1930;7;17;Paraguay 0 x 3 United States;Paraguay;United States;0;3;FIFA World Cup;Montevideo;Uruguay;;;TRUE;United States;Paraguay;3;#N/D
+1930;7;18;Uruguay 1 x 0 Peru;Uruguay;Peru;1;0;FIFA World Cup;Montevideo;Uruguay;;;FALSE;Uruguay;Peru;1;#N/D
+1930;7;19;Argentina 6 x 3 Mexico;Argentina;Mexico;6;3;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Argentina;Mexico;3;#N/D
+1930;7;19;Chile 1 x 0 France;Chile;France;1;0;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Chile;France;1;#N/D
+1930;7;20;Belgium 0 x 1 Paraguay;Belgium;Paraguay;0;1;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Paraguay;Belgium;1;#N/D
+1930;7;20;Bolivia 0 x 4 Brazil;Bolivia;Brazil;0;4;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Brazil;Bolivia;4;BR
+1930;7;21;Uruguay 4 x 0 Romania;Uruguay;Romania;4;0;FIFA World Cup;Montevideo;Uruguay;;;FALSE;Uruguay;Romania;4;#N/D
+1930;7;22;Argentina 3 x 1 Chile;Argentina;Chile;3;1;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Argentina;Chile;2;#N/D
+1930;7;26;Argentina 6 x 1 United States;Argentina;United States;6;1;FIFA World Cup;Montevideo;Uruguay;;;TRUE;Argentina;United States;5;#N/D
+1930;7;27;Uruguay 6 x 1 Yugoslavia;Uruguay;Yugoslavia;6;1;FIFA World Cup;Montevideo;Uruguay;;;FALSE;Uruguay;Yugoslavia;5;#N/D
+1930;7;30;Uruguay 4 x 2 Argentina;Uruguay;Argentina;4;2;FIFA World Cup;Montevideo;Uruguay;;;FALSE;Uruguay;Argentina;2;#N/D
+1934;5;27;Argentina 2 x 3 Sweden;Argentina;Sweden;2;3;FIFA World Cup;Bologna;Italy;;;TRUE;Sweden;Argentina;1;#N/D
+1934;5;27;Austria 3 x 2 France;Austria;France;3;2;FIFA World Cup;Turin;Italy;;;TRUE;Austria;France;1;#N/D
+1934;5;27;Belgium 2 x 5 Germany;Belgium;Germany;2;5;FIFA World Cup;Florence;Italy;;;TRUE;Germany;Belgium;3;#N/D
+1934;5;27;Brazil 1 x 3 Spain;Brazil;Spain;1;3;FIFA World Cup;Genoa;Italy;;;TRUE;Spain;Brazil;2;BR
+1934;5;27;Czechoslovakia 2 x 1 Romania;Czechoslovakia;Romania;2;1;FIFA World Cup;Trieste;Italy;;;TRUE;Czechoslovakia;Romania;1;#N/D
+1934;5;27;Egypt 2 x 4 Hungary;Egypt;Hungary;2;4;FIFA World Cup;Naples;Italy;;;TRUE;Hungary;Egypt;2;#N/D
+1934;5;27;Italy 7 x 1 United States;Italy;United States;7;1;FIFA World Cup;Rome;Italy;;;FALSE;Italy;United States;6;#N/D
+1934;5;27;Netherlands 2 x 3 Switzerland;Netherlands;Switzerland;2;3;FIFA World Cup;Milan;Italy;;;TRUE;Switzerland;Netherlands;1;#N/D
+1934;5;31;Austria 2 x 1 Hungary;Austria;Hungary;2;1;FIFA World Cup;Bologna;Italy;;;TRUE;Austria;Hungary;1;#N/D
+1934;5;31;Czechoslovakia 3 x 2 Switzerland;Czechoslovakia;Switzerland;3;2;FIFA World Cup;Turin;Italy;;;TRUE;Czechoslovakia;Switzerland;1;#N/D
+1934;5;31;Germany 2 x 1 Sweden;Germany;Sweden;2;1;FIFA World Cup;Milan;Italy;;;TRUE;Germany;Sweden;1;#N/D
+1934;5;31;Italy 1 x 1 Spain;Italy;Spain;1;1;FIFA World Cup;Florence;Italy;;;FALSE;Draw;Draw;0;#N/D
+1934;6;1;Italy 1 x 0 Spain;Italy;Spain;1;0;FIFA World Cup;Florence;Italy;;;FALSE;Italy;Spain;1;#N/D
+1934;6;3;Czechoslovakia 3 x 1 Germany;Czechoslovakia;Germany;3;1;FIFA World Cup;Rome;Italy;;;TRUE;Czechoslovakia;Germany;2;#N/D
+1934;6;3;Italy 1 x 0 Austria;Italy;Austria;1;0;FIFA World Cup;Milan;Italy;;;FALSE;Italy;Austria;1;#N/D
+1934;6;7;Austria 2 x 3 Germany;Austria;Germany;2;3;FIFA World Cup;Naples;Italy;;;TRUE;Germany;Austria;1;#N/D
+1934;6;10;Italy 2 x 1 Czechoslovakia;Italy;Czechoslovakia;2;1;FIFA World Cup;Rome;Italy;;;FALSE;Italy;Czechoslovakia;1;#N/D
+1938;6;4;Germany 1 x 1 Switzerland;Germany;Switzerland;1;1;FIFA World Cup;Paris;France;;;TRUE;Draw;Draw;0;#N/D
+1938;6;5;Brazil 6 x 5 Poland;Brazil;Poland;6;5;FIFA World Cup;Strasbourg;France;;;TRUE;Brazil;Poland;1;BR
+1938;6;5;Cuba 3 x 3 Romania;Cuba;Romania;3;3;FIFA World Cup;Toulouse;France;;;TRUE;Draw;Draw;0;#N/D
+1938;6;5;Czechoslovakia 3 x 0 Netherlands;Czechoslovakia;Netherlands;3;0;FIFA World Cup;Le Havre;France;;;TRUE;Czechoslovakia;Netherlands;3;#N/D
+1938;6;5;France 3 x 1 Belgium;France;Belgium;3;1;FIFA World Cup;Colombes;France;;;FALSE;France;Belgium;2;#N/D
+1938;6;5;Hungary 6 x 0 Indonesia;Hungary;Indonesia;6;0;FIFA World Cup;Reims;France;;;TRUE;Hungary;Indonesia;6;#N/D
+1938;6;5;Italy 2 x 1 Norway;Italy;Norway;2;1;FIFA World Cup;Marseille;France;;;TRUE;Italy;Norway;1;#N/D
+1938;6;9;Cuba 2 x 1 Romania;Cuba;Romania;2;1;FIFA World Cup;Toulouse;France;;;TRUE;Cuba;Romania;1;#N/D
+1938;6;9;Germany 2 x 4 Switzerland;Germany;Switzerland;2;4;FIFA World Cup;Paris;France;;;TRUE;Switzerland;Germany;2;#N/D
+1938;6;12;Brazil 1 x 1 Czechoslovakia;Brazil;Czechoslovakia;1;1;FIFA World Cup;Bordeaux;France;;;TRUE;Draw;Draw;0;BR
+1938;6;12;Cuba 0 x 8 Sweden;Cuba;Sweden;0;8;FIFA World Cup;Antibes;France;;;TRUE;Sweden;Cuba;8;#N/D
+1938;6;12;France 1 x 3 Italy;France;Italy;1;3;FIFA World Cup;Colombes;France;;;FALSE;Italy;France;2;#N/D
+1938;6;12;Hungary 2 x 0 Switzerland;Hungary;Switzerland;2;0;FIFA World Cup;Lille;France;;;TRUE;Hungary;Switzerland;2;#N/D
+1938;6;14;Brazil 2 x 1 Czechoslovakia;Brazil;Czechoslovakia;2;1;FIFA World Cup;Bordeaux;France;;;TRUE;Brazil;Czechoslovakia;1;BR
+1938;6;16;Brazil 1 x 2 Italy;Brazil;Italy;1;2;FIFA World Cup;Marseille;France;;;TRUE;Italy;Brazil;1;BR
+1938;6;16;Hungary 5 x 1 Sweden;Hungary;Sweden;5;1;FIFA World Cup;Paris;France;;;TRUE;Hungary;Sweden;4;#N/D
+1938;6;19;Brazil 4 x 2 Sweden;Brazil;Sweden;4;2;FIFA World Cup;Bordeaux;France;;;TRUE;Brazil;Sweden;2;BR
+1938;6;19;Hungary 2 x 4 Italy;Hungary;Italy;2;4;FIFA World Cup;Colombes;France;;;TRUE;Italy;Hungary;2;#N/D
+1950;6;24;Brazil 4 x 0 Mexico;Brazil;Mexico;4;0;FIFA World Cup;Rio de Janeiro;Brazil;;;FALSE;Brazil;Mexico;4;BR
+1950;6;25;Chile 0 x 2 England;Chile;England;0;2;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;England;Chile;2;#N/D
+1950;6;25;Italy 2 x 3 Sweden;Italy;Sweden;2;3;FIFA World Cup;São Paulo;Brazil;;;TRUE;Sweden;Italy;1;#N/D
+1950;6;25;Spain 3 x 1 United States;Spain;United States;3;1;FIFA World Cup;Curitiba;Brazil;;;TRUE;Spain;United States;2;#N/D
+1950;6;25;Switzerland 0 x 3 Yugoslavia;Switzerland;Yugoslavia;0;3;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;Yugoslavia;Switzerland;3;#N/D
+1950;6;28;Brazil 2 x 2 Switzerland;Brazil;Switzerland;2;2;FIFA World Cup;São Paulo;Brazil;;;FALSE;Draw;Draw;0;BR
+1950;6;28;Mexico 1 x 4 Yugoslavia;Mexico;Yugoslavia;1;4;FIFA World Cup;Porto Alegre;Brazil;;;TRUE;Yugoslavia;Mexico;3;#N/D
+1950;6;29;Chile 0 x 2 Spain;Chile;Spain;0;2;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Spain;Chile;2;#N/D
+1950;6;29;England 0 x 1 United States;England;United States;0;1;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;United States;England;1;#N/D
+1950;6;29;Paraguay 2 x 2 Sweden;Paraguay;Sweden;2;2;FIFA World Cup;Curitiba;Brazil;;;TRUE;Draw;Draw;0;#N/D
+1950;7;1;Brazil 2 x 0 Yugoslavia;Brazil;Yugoslavia;2;0;FIFA World Cup;Rio de Janeiro;Brazil;;;FALSE;Brazil;Yugoslavia;2;BR
+1950;7;2;Bolivia 0 x 8 Uruguay;Bolivia;Uruguay;0;8;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;Uruguay;Bolivia;8;#N/D
+1950;7;2;Chile 5 x 2 United States;Chile;United States;5;2;FIFA World Cup;Recife;Brazil;;;TRUE;Chile;United States;3;#N/D
+1950;7;2;England 0 x 1 Spain;England;Spain;0;1;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Spain;England;1;#N/D
+1950;7;2;Italy 2 x 0 Paraguay;Italy;Paraguay;2;0;FIFA World Cup;São Paulo;Brazil;;;TRUE;Italy;Paraguay;2;#N/D
+1950;7;2;Mexico 1 x 2 Switzerland;Mexico;Switzerland;1;2;FIFA World Cup;Porto Alegre;Brazil;;;TRUE;Switzerland;Mexico;1;#N/D
+1950;7;9;Brazil 7 x 1 Sweden;Brazil;Sweden;7;1;FIFA World Cup;Rio de Janeiro;Brazil;;;FALSE;Brazil;Sweden;6;BR
+1950;7;9;Spain 2 x 2 Uruguay;Spain;Uruguay;2;2;FIFA World Cup;São Paulo;Brazil;;;TRUE;Draw;Draw;0;#N/D
+1950;7;13;Brazil 6 x 1 Spain;Brazil;Spain;6;1;FIFA World Cup;Rio de Janeiro;Brazil;;;FALSE;Brazil;Spain;5;BR
+1950;7;13;Sweden 2 x 3 Uruguay;Sweden;Uruguay;2;3;FIFA World Cup;São Paulo;Brazil;;;TRUE;Uruguay;Sweden;1;#N/D
+1950;7;16;Brazil 1 x 2 Uruguay;Brazil;Uruguay;1;2;FIFA World Cup;Rio de Janeiro;Brazil;;;FALSE;Uruguay;Brazil;1;BR
+1950;7;16;Spain 1 x 3 Sweden;Spain;Sweden;1;3;FIFA World Cup;São Paulo;Brazil;;;TRUE;Sweden;Spain;2;#N/D
+1954;6;16;Austria 1 x 0 Scotland;Austria;Scotland;1;0;FIFA World Cup;Zürich;Switzerland;;;TRUE;Austria;Scotland;1;#N/D
+1954;6;16;Brazil 5 x 0 Mexico;Brazil;Mexico;5;0;FIFA World Cup;Geneva;Switzerland;;;TRUE;Brazil;Mexico;5;BR
+1954;6;16;Czechoslovakia 0 x 2 Uruguay;Czechoslovakia;Uruguay;0;2;FIFA World Cup;Berne;Switzerland;;;TRUE;Uruguay;Czechoslovakia;2;#N/D
+1954;6;16;France 0 x 1 Yugoslavia;France;Yugoslavia;0;1;FIFA World Cup;Lausanne;Switzerland;;;TRUE;Yugoslavia;France;1;#N/D
+1954;6;17;Belgium 4 x 4 England;Belgium;England;4;4;FIFA World Cup;Basel;Switzerland;;;TRUE;Draw;Draw;0;#N/D
+1954;6;17;Germany 4 x 1 Turkey;Germany;Turkey;4;1;FIFA World Cup;Berne;Switzerland;;;TRUE;Germany;Turkey;3;#N/D
+1954;6;17;Hungary 9 x 0 South Korea;Hungary;South Korea;9;0;FIFA World Cup;Zürich;Switzerland;;;TRUE;Hungary;South Korea;9;#N/D
+1954;6;17;Switzerland 2 x 1 Italy;Switzerland;Italy;2;1;FIFA World Cup;Lausanne;Switzerland;;;FALSE;Switzerland;Italy;1;#N/D
+1954;6;19;Austria 5 x 0 Czechoslovakia;Austria;Czechoslovakia;5;0;FIFA World Cup;Zürich;Switzerland;;;TRUE;Austria;Czechoslovakia;5;#N/D
+1954;6;19;Brazil 1 x 1 Yugoslavia;Brazil;Yugoslavia;1;1;FIFA World Cup;Lausanne;Switzerland;;;TRUE;Draw;Draw;0;BR
+1954;6;19;France 3 x 2 Mexico;France;Mexico;3;2;FIFA World Cup;Geneva;Switzerland;;;TRUE;France;Mexico;1;#N/D
+1954;6;19;Scotland 0 x 7 Uruguay;Scotland;Uruguay;0;7;FIFA World Cup;Basel;Switzerland;;;TRUE;Uruguay;Scotland;7;#N/D
+1954;6;20;Belgium 1 x 4 Italy;Belgium;Italy;1;4;FIFA World Cup;Lugano;Switzerland;;;TRUE;Italy;Belgium;3;#N/D
+1954;6;20;Germany 3 x 8 Hungary;Germany;Hungary;3;8;FIFA World Cup;Basel;Switzerland;;;TRUE;Hungary;Germany;5;#N/D
+1954;6;20;South Korea 0 x 7 Turkey;South Korea;Turkey;0;7;FIFA World Cup;Geneva;Switzerland;;;TRUE;Turkey;South Korea;7;#N/D
+1954;6;20;Switzerland 0 x 2 England;Switzerland;England;0;2;FIFA World Cup;Berne;Switzerland;;;FALSE;England;Switzerland;2;#N/D
+1954;6;23;Germany 7 x 2 Turkey;Germany;Turkey;7;2;FIFA World Cup;Zürich;Switzerland;;;TRUE;Germany;Turkey;5;#N/D
+1954;6;23;Switzerland 4 x 1 Italy;Switzerland;Italy;4;1;FIFA World Cup;Basel;Switzerland;;;FALSE;Switzerland;Italy;3;#N/D
+1954;6;26;England 2 x 4 Uruguay;England;Uruguay;2;4;FIFA World Cup;Basel;Switzerland;;;TRUE;Uruguay;England;2;#N/D
+1954;6;26;Switzerland 5 x 7 Austria;Switzerland;Austria;5;7;FIFA World Cup;Lausanne;Switzerland;;;FALSE;Austria;Switzerland;2;#N/D
+1954;6;27;Brazil 2 x 4 Hungary;Brazil;Hungary;2;4;FIFA World Cup;Berne;Switzerland;;;TRUE;Hungary;Brazil;2;BR
+1954;6;27;Germany 2 x 0 Yugoslavia;Germany;Yugoslavia;2;0;FIFA World Cup;Geneva;Switzerland;;;TRUE;Germany;Yugoslavia;2;#N/D
+1954;6;30;Austria 1 x 6 Germany;Austria;Germany;1;6;FIFA World Cup;Basel;Switzerland;;;TRUE;Germany;Austria;5;#N/D
+1954;6;30;Hungary 4 x 2 Uruguay;Hungary;Uruguay;4;2;FIFA World Cup;Lausanne;Switzerland;;;TRUE;Hungary;Uruguay;2;#N/D
+1954;7;3;Austria 3 x 1 Uruguay;Austria;Uruguay;3;1;FIFA World Cup;Zürich;Switzerland;;;TRUE;Austria;Uruguay;2;#N/D
+1954;7;4;Germany 3 x 2 Hungary;Germany;Hungary;3;2;FIFA World Cup;Berne;Switzerland;;;TRUE;Germany;Hungary;1;#N/D
+1958;6;8;Argentina 1 x 3 Germany;Argentina;Germany;1;3;FIFA World Cup;Malmö;Sweden;;;TRUE;Germany;Argentina;2;#N/D
+1958;6;8;Austria 0 x 3 Brazil;Austria;Brazil;0;3;FIFA World Cup;Uddevalla;Sweden;;;TRUE;Brazil;Austria;3;BR
+1958;6;8;Czechoslovakia 0 x 1 Northern Ireland;Czechoslovakia;Northern Ireland;0;1;FIFA World Cup;Halmstad;Sweden;;;TRUE;Northern Ireland;Czechoslovakia;1;#N/D
+1958;6;8;England 2 x 2 Russia;England;Russia;2;2;FIFA World Cup;Gothenburg;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;8;France 7 x 3 Paraguay;France;Paraguay;7;3;FIFA World Cup;Norrköping;Sweden;;;TRUE;France;Paraguay;4;#N/D
+1958;6;8;Hungary 1 x 1 Wales;Hungary;Wales;1;1;FIFA World Cup;Sandviken;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;8;Scotland 1 x 1 Yugoslavia;Scotland;Yugoslavia;1;1;FIFA World Cup;Västerås;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;8;Sweden 3 x 0 Mexico;Sweden;Mexico;3;0;FIFA World Cup;Solna;Sweden;;;FALSE;Sweden;Mexico;3;#N/D
+1958;6;11;Argentina 3 x 1 Northern Ireland;Argentina;Northern Ireland;3;1;FIFA World Cup;Halmstad;Sweden;;;TRUE;Argentina;Northern Ireland;2;#N/D
+1958;6;11;Austria 0 x 2 Russia;Austria;Russia;0;2;FIFA World Cup;Borås;Sweden;;;TRUE;Russia;Austria;2;#N/D
+1958;6;11;Brazil 0 x 0 England;Brazil;England;0;0;FIFA World Cup;Gothenburg;Sweden;;;TRUE;Draw;Draw;0;BR
+1958;6;11;Czechoslovakia 2 x 2 Germany;Czechoslovakia;Germany;2;2;FIFA World Cup;Helsingborg;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;11;France 2 x 3 Yugoslavia;France;Yugoslavia;2;3;FIFA World Cup;Västerås;Sweden;;;TRUE;Yugoslavia;France;1;#N/D
+1958;6;11;Mexico 1 x 1 Wales;Mexico;Wales;1;1;FIFA World Cup;Solna;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;11;Paraguay 3 x 2 Scotland;Paraguay;Scotland;3;2;FIFA World Cup;Norrköping;Sweden;;;TRUE;Paraguay;Scotland;1;#N/D
+1958;6;12;Sweden 2 x 1 Hungary;Sweden;Hungary;2;1;FIFA World Cup;Solna;Sweden;;;FALSE;Sweden;Hungary;1;#N/D
+1958;6;15;Argentina 1 x 6 Czechoslovakia;Argentina;Czechoslovakia;1;6;FIFA World Cup;Helsingborg;Sweden;;;TRUE;Czechoslovakia;Argentina;5;#N/D
+1958;6;15;Austria 2 x 2 England;Austria;England;2;2;FIFA World Cup;Borås;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;15;Brazil 2 x 0 Russia;Brazil;Russia;2;0;FIFA World Cup;Gothenburg;Sweden;;;TRUE;Brazil;Russia;2;BR
+1958;6;15;France 2 x 1 Scotland;France;Scotland;2;1;FIFA World Cup;Örebro;Sweden;;;TRUE;France;Scotland;1;#N/D
+1958;6;15;Germany 2 x 2 Northern Ireland;Germany;Northern Ireland;2;2;FIFA World Cup;Malmö;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;15;Hungary 4 x 0 Mexico;Hungary;Mexico;4;0;FIFA World Cup;Sandviken;Sweden;;;TRUE;Hungary;Mexico;4;#N/D
+1958;6;15;Paraguay 3 x 3 Yugoslavia;Paraguay;Yugoslavia;3;3;FIFA World Cup;Eskilstuna;Sweden;;;TRUE;Draw;Draw;0;#N/D
+1958;6;15;Sweden 0 x 0 Wales;Sweden;Wales;0;0;FIFA World Cup;Solna;Sweden;;;FALSE;Draw;Draw;0;#N/D
+1958;6;17;Czechoslovakia 1 x 2 Northern Ireland;Czechoslovakia;Northern Ireland;1;2;FIFA World Cup;Malmö;Sweden;;;TRUE;Northern Ireland;Czechoslovakia;1;#N/D
+1958;6;17;England 0 x 1 Russia;England;Russia;0;1;FIFA World Cup;Gothenburg;Sweden;;;TRUE;Russia;England;1;#N/D
+1958;6;17;Hungary 1 x 2 Wales;Hungary;Wales;1;2;FIFA World Cup;Solna;Sweden;;;TRUE;Wales;Hungary;1;#N/D
+1958;6;19;Brazil 1 x 0 Wales;Brazil;Wales;1;0;FIFA World Cup;Gothenburg;Sweden;;;TRUE;Brazil;Wales;1;BR
+1958;6;19;France 4 x 0 Northern Ireland;France;Northern Ireland;4;0;FIFA World Cup;Norrköping;Sweden;;;TRUE;France;Northern Ireland;4;#N/D
+1958;6;19;Germany 1 x 0 Yugoslavia;Germany;Yugoslavia;1;0;FIFA World Cup;Malmö;Sweden;;;TRUE;Germany;Yugoslavia;1;#N/D
+1958;6;19;Sweden 2 x 0 Russia;Sweden;Russia;2;0;FIFA World Cup;Solna;Sweden;;;FALSE;Sweden;Russia;2;#N/D
+1958;6;24;Brazil 5 x 2 France;Brazil;France;5;2;FIFA World Cup;Solna;Sweden;;;TRUE;Brazil;France;3;BR
+1958;6;24;Sweden 3 x 1 Germany;Sweden;Germany;3;1;FIFA World Cup;Gothenburg;Sweden;;;FALSE;Sweden;Germany;2;#N/D
+1958;6;28;France 6 x 3 Germany;France;Germany;6;3;FIFA World Cup;Gothenburg;Sweden;;;TRUE;France;Germany;3;#N/D
+1958;6;29;Sweden 2 x 5 Brazil;Sweden;Brazil;2;5;FIFA World Cup;Solna;Sweden;;;FALSE;Brazil;Sweden;3;BR
+1962;5;30;Argentina 1 x 0 Bulgaria;Argentina;Bulgaria;1;0;FIFA World Cup;Rancagua;Chile;;;TRUE;Argentina;Bulgaria;1;#N/D
+1962;5;30;Brazil 2 x 0 Mexico;Brazil;Mexico;2;0;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Brazil;Mexico;2;BR
+1962;5;30;Chile 3 x 1 Switzerland;Chile;Switzerland;3;1;FIFA World Cup;Santiago;Chile;;;FALSE;Chile;Switzerland;2;#N/D
+1962;5;30;Colombia 1 x 2 Uruguay;Colombia;Uruguay;1;2;FIFA World Cup;Arica;Chile;;;TRUE;Uruguay;Colombia;1;#N/D
+1962;5;31;Czechoslovakia 1 x 0 Spain;Czechoslovakia;Spain;1;0;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Czechoslovakia;Spain;1;#N/D
+1962;5;31;England 1 x 2 Hungary;England;Hungary;1;2;FIFA World Cup;Rancagua;Chile;;;TRUE;Hungary;England;1;#N/D
+1962;5;31;Germany 0 x 0 Italy;Germany;Italy;0;0;FIFA World Cup;Santiago;Chile;;;TRUE;Draw;Draw;0;#N/D
+1962;5;31;Russia 2 x 0 Yugoslavia;Russia;Yugoslavia;2;0;FIFA World Cup;Arica;Chile;;;TRUE;Russia;Yugoslavia;2;#N/D
+1962;6;2;Argentina 1 x 3 England;Argentina;England;1;3;FIFA World Cup;Rancagua;Chile;;;TRUE;England;Argentina;2;#N/D
+1962;6;2;Brazil 0 x 0 Czechoslovakia;Brazil;Czechoslovakia;0;0;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Draw;Draw;0;BR
+1962;6;2;Chile 2 x 0 Italy;Chile;Italy;2;0;FIFA World Cup;Santiago;Chile;;;FALSE;Chile;Italy;2;#N/D
+1962;6;2;Uruguay 1 x 3 Yugoslavia;Uruguay;Yugoslavia;1;3;FIFA World Cup;Arica;Chile;;;TRUE;Yugoslavia;Uruguay;2;#N/D
+1962;6;3;Bulgaria 1 x 6 Hungary;Bulgaria;Hungary;1;6;FIFA World Cup;Rancagua;Chile;;;TRUE;Hungary;Bulgaria;5;#N/D
+1962;6;3;Colombia 4 x 4 Russia;Colombia;Russia;4;4;FIFA World Cup;Arica;Chile;;;TRUE;Draw;Draw;0;#N/D
+1962;6;3;Germany 2 x 1 Switzerland;Germany;Switzerland;2;1;FIFA World Cup;Santiago;Chile;;;TRUE;Germany;Switzerland;1;#N/D
+1962;6;3;Mexico 0 x 1 Spain;Mexico;Spain;0;1;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Spain;Mexico;1;#N/D
+1962;6;6;Argentina 0 x 0 Hungary;Argentina;Hungary;0;0;FIFA World Cup;Rancagua;Chile;;;TRUE;Draw;Draw;0;#N/D
+1962;6;6;Brazil 2 x 1 Spain;Brazil;Spain;2;1;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Brazil;Spain;1;BR
+1962;6;6;Chile 0 x 2 Germany;Chile;Germany;0;2;FIFA World Cup;Santiago;Chile;;;FALSE;Germany;Chile;2;#N/D
+1962;6;6;Russia 2 x 1 Uruguay;Russia;Uruguay;2;1;FIFA World Cup;Arica;Chile;;;TRUE;Russia;Uruguay;1;#N/D
+1962;6;7;Bulgaria 0 x 0 England;Bulgaria;England;0;0;FIFA World Cup;Rancagua;Chile;;;TRUE;Draw;Draw;0;#N/D
+1962;6;7;Colombia 0 x 5 Yugoslavia;Colombia;Yugoslavia;0;5;FIFA World Cup;Arica;Chile;;;TRUE;Yugoslavia;Colombia;5;#N/D
+1962;6;7;Czechoslovakia 1 x 3 Mexico;Czechoslovakia;Mexico;1;3;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Mexico;Czechoslovakia;2;#N/D
+1962;6;7;Italy 3 x 0 Switzerland;Italy;Switzerland;3;0;FIFA World Cup;Santiago;Chile;;;TRUE;Italy;Switzerland;3;#N/D
+1962;6;10;Brazil 3 x 1 England;Brazil;England;3;1;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Brazil;England;2;BR
+1962;6;10;Chile 2 x 1 Russia;Chile;Russia;2;1;FIFA World Cup;Arica;Chile;;;FALSE;Chile;Russia;1;#N/D
+1962;6;10;Czechoslovakia 1 x 0 Hungary;Czechoslovakia;Hungary;1;0;FIFA World Cup;Rancagua;Chile;;;TRUE;Czechoslovakia;Hungary;1;#N/D
+1962;6;10;Germany 0 x 1 Yugoslavia;Germany;Yugoslavia;0;1;FIFA World Cup;Santiago;Chile;;;TRUE;Yugoslavia;Germany;1;#N/D
+1962;6;13;Chile 2 x 4 Brazil;Chile;Brazil;2;4;FIFA World Cup;Santiago;Chile;;;FALSE;Brazil;Chile;2;BR
+1962;6;13;Czechoslovakia 3 x 1 Yugoslavia;Czechoslovakia;Yugoslavia;3;1;FIFA World Cup;Viña del Mar;Chile;;;TRUE;Czechoslovakia;Yugoslavia;2;#N/D
+1962;6;16;Chile 1 x 0 Yugoslavia;Chile;Yugoslavia;1;0;FIFA World Cup;Santiago;Chile;;;FALSE;Chile;Yugoslavia;1;#N/D
+1962;6;17;Brazil 3 x 1 Czechoslovakia;Brazil;Czechoslovakia;3;1;FIFA World Cup;Santiago;Chile;;;TRUE;Brazil;Czechoslovakia;2;BR
+1966;7;11;England 0 x 0 Uruguay;England;Uruguay;0;0;FIFA World Cup;London;England;;;FALSE;Draw;Draw;0;#N/D
+1966;7;12;Brazil 2 x 0 Bulgaria;Brazil;Bulgaria;2;0;FIFA World Cup;Liverpool;England;;;TRUE;Brazil;Bulgaria;2;BR
+1966;7;12;Germany 5 x 0 Switzerland;Germany;Switzerland;5;0;FIFA World Cup;Sheffield;England;;;TRUE;Germany;Switzerland;5;#N/D
+1966;7;12;North Korea 0 x 3 Russia;North Korea;Russia;0;3;FIFA World Cup;Middlesbrough;England;;;TRUE;Russia;North Korea;3;#N/D
+1966;7;13;Argentina 2 x 1 Spain;Argentina;Spain;2;1;FIFA World Cup;Birmingham;England;;;TRUE;Argentina;Spain;1;#N/D
+1966;7;13;Chile 0 x 2 Italy;Chile;Italy;0;2;FIFA World Cup;Sunderland;England;;;TRUE;Italy;Chile;2;#N/D
+1966;7;13;France 1 x 1 Mexico;France;Mexico;1;1;FIFA World Cup;London;England;;;TRUE;Draw;Draw;0;#N/D
+1966;7;13;Hungary 1 x 3 Portugal;Hungary;Portugal;1;3;FIFA World Cup;Manchester;England;;;TRUE;Portugal;Hungary;2;#N/D
+1966;7;15;Brazil 1 x 3 Hungary;Brazil;Hungary;1;3;FIFA World Cup;Liverpool;England;;;TRUE;Hungary;Brazil;2;BR
+1966;7;15;Chile 1 x 1 North Korea;Chile;North Korea;1;1;FIFA World Cup;Middlesbrough;England;;;TRUE;Draw;Draw;0;#N/D
+1966;7;15;France 1 x 2 Uruguay;France;Uruguay;1;2;FIFA World Cup;London;England;;;TRUE;Uruguay;France;1;#N/D
+1966;7;15;Spain 2 x 1 Switzerland;Spain;Switzerland;2;1;FIFA World Cup;Sheffield;England;;;TRUE;Spain;Switzerland;1;#N/D
+1966;7;16;Argentina 0 x 0 Germany;Argentina;Germany;0;0;FIFA World Cup;Birmingham;England;;;TRUE;Draw;Draw;0;#N/D
+1966;7;16;Bulgaria 0 x 3 Portugal;Bulgaria;Portugal;0;3;FIFA World Cup;Manchester;England;;;TRUE;Portugal;Bulgaria;3;#N/D
+1966;7;16;England 2 x 0 Mexico;England;Mexico;2;0;FIFA World Cup;London;England;;;FALSE;England;Mexico;2;#N/D
+1966;7;16;Italy 0 x 1 Russia;Italy;Russia;0;1;FIFA World Cup;Sunderland;England;;;TRUE;Russia;Italy;1;#N/D
+1966;7;19;Argentina 2 x 0 Switzerland;Argentina;Switzerland;2;0;FIFA World Cup;Sheffield;England;;;TRUE;Argentina;Switzerland;2;#N/D
+1966;7;19;Brazil 1 x 3 Portugal;Brazil;Portugal;1;3;FIFA World Cup;Liverpool;England;;;TRUE;Portugal;Brazil;2;BR
+1966;7;19;Italy 0 x 1 North Korea;Italy;North Korea;0;1;FIFA World Cup;Middlesbrough;England;;;TRUE;North Korea;Italy;1;#N/D
+1966;7;19;Mexico 0 x 0 Uruguay;Mexico;Uruguay;0;0;FIFA World Cup;London;England;;;TRUE;Draw;Draw;0;#N/D
+1966;7;20;Bulgaria 1 x 3 Hungary;Bulgaria;Hungary;1;3;FIFA World Cup;Manchester;England;;;TRUE;Hungary;Bulgaria;2;#N/D
+1966;7;20;Chile 1 x 2 Russia;Chile;Russia;1;2;FIFA World Cup;Sunderland;England;;;TRUE;Russia;Chile;1;#N/D
+1966;7;20;England 2 x 0 France;England;France;2;0;FIFA World Cup;London;England;;;FALSE;England;France;2;#N/D
+1966;7;20;Germany 2 x 1 Spain;Germany;Spain;2;1;FIFA World Cup;Birmingham;England;;;TRUE;Germany;Spain;1;#N/D
+1966;7;23;England 1 x 0 Argentina;England;Argentina;1;0;FIFA World Cup;London;England;;;FALSE;England;Argentina;1;#N/D
+1966;7;23;Germany 4 x 0 Uruguay;Germany;Uruguay;4;0;FIFA World Cup;Sheffield;England;;;TRUE;Germany;Uruguay;4;#N/D
+1966;7;23;Hungary 1 x 2 Russia;Hungary;Russia;1;2;FIFA World Cup;Sunderland;England;;;TRUE;Russia;Hungary;1;#N/D
+1966;7;23;North Korea 3 x 5 Portugal;North Korea;Portugal;3;5;FIFA World Cup;Liverpool;England;;;TRUE;Portugal;North Korea;2;#N/D
+1966;7;25;Germany 2 x 1 Russia;Germany;Russia;2;1;FIFA World Cup;Liverpool;England;;;TRUE;Germany;Russia;1;#N/D
+1966;7;26;England 2 x 1 Portugal;England;Portugal;2;1;FIFA World Cup;London;England;;;FALSE;England;Portugal;1;#N/D
+1966;7;28;Portugal 2 x 1 Russia;Portugal;Russia;2;1;FIFA World Cup;London;England;;;TRUE;Portugal;Russia;1;#N/D
+1966;7;30;England 4 x 2 Germany;England;Germany;4;2;FIFA World Cup;London;England;;;FALSE;England;Germany;2;#N/D
+1970;5;31;Mexico 0 x 0 Russia;Mexico;Russia;0;0;FIFA World Cup;Mexico City;Mexico;;;FALSE;Draw;Draw;0;#N/D
+1970;6;2;Bulgaria 2 x 3 Peru;Bulgaria;Peru;2;3;FIFA World Cup;León;Mexico;;;TRUE;Peru;Bulgaria;1;#N/D
+1970;6;2;England 1 x 0 Romania;England;Romania;1;0;FIFA World Cup;Guadalajara;Mexico;;;TRUE;England;Romania;1;#N/D
+1970;6;2;Israel 0 x 2 Uruguay;Israel;Uruguay;0;2;FIFA World Cup;Puebla;Mexico;;;TRUE;Uruguay;Israel;2;#N/D
+1970;6;3;Belgium 3 x 0 El Salvador;Belgium;El Salvador;3;0;FIFA World Cup;Mexico City;Mexico;;;TRUE;Belgium;El Salvador;3;#N/D
+1970;6;3;Brazil 4 x 1 Czechoslovakia;Brazil;Czechoslovakia;4;1;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Czechoslovakia;3;BR
+1970;6;3;Germany 2 x 1 Morocco;Germany;Morocco;2;1;FIFA World Cup;León;Mexico;;;TRUE;Germany;Morocco;1;#N/D
+1970;6;3;Italy 1 x 0 Sweden;Italy;Sweden;1;0;FIFA World Cup;Toluca;Mexico;;;TRUE;Italy;Sweden;1;#N/D
+1970;6;6;Belgium 1 x 4 Russia;Belgium;Russia;1;4;FIFA World Cup;Mexico City;Mexico;;;TRUE;Russia;Belgium;3;#N/D
+1970;6;6;Czechoslovakia 1 x 2 Romania;Czechoslovakia;Romania;1;2;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Romania;Czechoslovakia;1;#N/D
+1970;6;6;Italy 0 x 0 Uruguay;Italy;Uruguay;0;0;FIFA World Cup;Puebla;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1970;6;6;Morocco 0 x 3 Peru;Morocco;Peru;0;3;FIFA World Cup;León;Mexico;;;TRUE;Peru;Morocco;3;#N/D
+1970;6;7;Brazil 1 x 0 England;Brazil;England;1;0;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;England;1;BR
+1970;6;7;Bulgaria 2 x 5 Germany;Bulgaria;Germany;2;5;FIFA World Cup;León;Mexico;;;TRUE;Germany;Bulgaria;3;#N/D
+1970;6;7;Israel 1 x 1 Sweden;Israel;Sweden;1;1;FIFA World Cup;Toluca;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1970;6;7;Mexico 4 x 0 El Salvador;Mexico;El Salvador;4;0;FIFA World Cup;Mexico City;Mexico;;;FALSE;Mexico;El Salvador;4;#N/D
+1970;6;10;Brazil 3 x 2 Romania;Brazil;Romania;3;2;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Romania;1;BR
+1970;6;10;El Salvador 0 x 2 Russia;El Salvador;Russia;0;2;FIFA World Cup;Mexico City;Mexico;;;TRUE;Russia;El Salvador;2;#N/D
+1970;6;10;Germany 3 x 1 Peru;Germany;Peru;3;1;FIFA World Cup;León;Mexico;;;TRUE;Germany;Peru;2;#N/D
+1970;6;10;Sweden 1 x 0 Uruguay;Sweden;Uruguay;1;0;FIFA World Cup;Puebla;Mexico;;;TRUE;Sweden;Uruguay;1;#N/D
+1970;6;11;Bulgaria 1 x 1 Morocco;Bulgaria;Morocco;1;1;FIFA World Cup;León;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1970;6;11;Czechoslovakia 0 x 1 England;Czechoslovakia;England;0;1;FIFA World Cup;Guadalajara;Mexico;;;TRUE;England;Czechoslovakia;1;#N/D
+1970;6;11;Israel 0 x 0 Italy;Israel;Italy;0;0;FIFA World Cup;Toluca;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1970;6;11;Mexico 1 x 0 Belgium;Mexico;Belgium;1;0;FIFA World Cup;Mexico City;Mexico;;;FALSE;Mexico;Belgium;1;#N/D
+1970;6;14;Brazil 4 x 2 Peru;Brazil;Peru;4;2;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Peru;2;BR
+1970;6;14;England 2 x 3 Germany;England;Germany;2;3;FIFA World Cup;León;Mexico;;;TRUE;Germany;England;1;#N/D
+1970;6;14;Mexico 1 x 4 Italy;Mexico;Italy;1;4;FIFA World Cup;Toluca;Mexico;;;FALSE;Italy;Mexico;3;#N/D
+1970;6;14;Russia 0 x 1 Uruguay;Russia;Uruguay;0;1;FIFA World Cup;Mexico City;Mexico;;;TRUE;Uruguay;Russia;1;#N/D
+1970;6;17;Brazil 3 x 1 Uruguay;Brazil;Uruguay;3;1;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Uruguay;2;BR
+1970;6;17;Germany 3 x 4 Italy;Germany;Italy;3;4;FIFA World Cup;Mexico City;Mexico;;;TRUE;Italy;Germany;1;#N/D
+1970;6;20;Germany 1 x 0 Uruguay;Germany;Uruguay;1;0;FIFA World Cup;Mexico City;Mexico;;;TRUE;Germany;Uruguay;1;#N/D
+1970;6;21;Brazil 4 x 1 Italy;Brazil;Italy;4;1;FIFA World Cup;Mexico City;Mexico;;;TRUE;Brazil;Italy;3;BR
+1974;6;13;Brazil 0 x 0 Yugoslavia;Brazil;Yugoslavia;0;0;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;Draw;Draw;0;BR
+1974;6;14;DR Congo 0 x 2 Scotland;DR Congo;Scotland;0;2;FIFA World Cup;Dortmund;Germany;;;TRUE;Scotland;DR Congo;2;#N/D
+1974;6;14;German DR 2 x 0 Australia;German DR;Australia;2;0;FIFA World Cup;Hamburg;Germany;;;TRUE;German DR;Australia;2;#N/D
+1974;6;14;Germany 1 x 0 Chile;Germany;Chile;1;0;FIFA World Cup;Berlin;Germany;;;FALSE;Germany;Chile;1;#N/D
+1974;6;15;Italy 3 x 1 Haiti;Italy;Haiti;3;1;FIFA World Cup;Munich;Germany;;;TRUE;Italy;Haiti;2;#N/D
+1974;6;15;Poland 3 x 2 Argentina;Poland;Argentina;3;2;FIFA World Cup;Stuttgart;Germany;;;TRUE;Poland;Argentina;1;#N/D
+1974;6;15;Sweden 0 x 0 Bulgaria;Sweden;Bulgaria;0;0;FIFA World Cup;Düsseldorf;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;15;Uruguay 0 x 2 Netherlands;Uruguay;Netherlands;0;2;FIFA World Cup;Hanover;Germany;;;TRUE;Netherlands;Uruguay;2;#N/D
+1974;6;18;Chile 1 x 1 German DR;Chile;German DR;1;1;FIFA World Cup;Berlin;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;18;Germany 3 x 0 Australia;Germany;Australia;3;0;FIFA World Cup;Hamburg;Germany;;;FALSE;Germany;Australia;3;#N/D
+1974;6;18;Scotland 0 x 0 Brazil;Scotland;Brazil;0;0;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;Draw;Draw;0;BR
+1974;6;18;Yugoslavia 9 x 0 DR Congo;Yugoslavia;DR Congo;9;0;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Yugoslavia;DR Congo;9;#N/D
+1974;6;19;Argentina 1 x 1 Italy;Argentina;Italy;1;1;FIFA World Cup;Stuttgart;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;19;Bulgaria 1 x 1 Uruguay;Bulgaria;Uruguay;1;1;FIFA World Cup;Hanover;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;19;Haiti 0 x 7 Poland;Haiti;Poland;0;7;FIFA World Cup;Munich;Germany;;;TRUE;Poland;Haiti;7;#N/D
+1974;6;19;Netherlands 0 x 0 Sweden;Netherlands;Sweden;0;0;FIFA World Cup;Dortmund;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;22;Australia 0 x 0 Chile;Australia;Chile;0;0;FIFA World Cup;Berlin;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;22;DR Congo 0 x 3 Brazil;DR Congo;Brazil;0;3;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Brazil;DR Congo;3;BR
+1974;6;22;Germany 0 x 1 German DR;Germany;German DR;0;1;FIFA World Cup;Hamburg;Germany;;;FALSE;German DR;Germany;1;#N/D
+1974;6;22;Scotland 1 x 1 Yugoslavia;Scotland;Yugoslavia;1;1;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;6;23;Argentina 4 x 1 Haiti;Argentina;Haiti;4;1;FIFA World Cup;Munich;Germany;;;TRUE;Argentina;Haiti;3;#N/D
+1974;6;23;Bulgaria 1 x 4 Netherlands;Bulgaria;Netherlands;1;4;FIFA World Cup;Dortmund;Germany;;;TRUE;Netherlands;Bulgaria;3;#N/D
+1974;6;23;Poland 2 x 1 Italy;Poland;Italy;2;1;FIFA World Cup;Stuttgart;Germany;;;TRUE;Poland;Italy;1;#N/D
+1974;6;23;Sweden 3 x 0 Uruguay;Sweden;Uruguay;3;0;FIFA World Cup;Düsseldorf;Germany;;;TRUE;Sweden;Uruguay;3;#N/D
+1974;6;26;Brazil 1 x 0 German DR;Brazil;German DR;1;0;FIFA World Cup;Hanover;Germany;;;TRUE;Brazil;German DR;1;BR
+1974;6;26;Germany 2 x 0 Yugoslavia;Germany;Yugoslavia;2;0;FIFA World Cup;Düsseldorf;Germany;;;FALSE;Germany;Yugoslavia;2;#N/D
+1974;6;26;Netherlands 4 x 0 Argentina;Netherlands;Argentina;4;0;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Netherlands;Argentina;4;#N/D
+1974;6;26;Sweden 0 x 1 Poland;Sweden;Poland;0;1;FIFA World Cup;Stuttgart;Germany;;;TRUE;Poland;Sweden;1;#N/D
+1974;6;30;Argentina 1 x 2 Brazil;Argentina;Brazil;1;2;FIFA World Cup;Hanover;Germany;;;TRUE;Brazil;Argentina;1;BR
+1974;6;30;German DR 0 x 2 Netherlands;German DR;Netherlands;0;2;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Netherlands;German DR;2;#N/D
+1974;6;30;Germany 4 x 2 Sweden;Germany;Sweden;4;2;FIFA World Cup;Düsseldorf;Germany;;;FALSE;Germany;Sweden;2;#N/D
+1974;6;30;Poland 2 x 1 Yugoslavia;Poland;Yugoslavia;2;1;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;Poland;Yugoslavia;1;#N/D
+1974;7;3;Argentina 1 x 1 German DR;Argentina;German DR;1;1;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Draw;Draw;0;#N/D
+1974;7;3;Germany 1 x 0 Poland;Germany;Poland;1;0;FIFA World Cup;Frankfurt am Main;Germany;;;FALSE;Germany;Poland;1;#N/D
+1974;7;3;Netherlands 2 x 0 Brazil;Netherlands;Brazil;2;0;FIFA World Cup;Dortmund;Germany;;;TRUE;Netherlands;Brazil;2;BR
+1974;7;3;Sweden 2 x 1 Yugoslavia;Sweden;Yugoslavia;2;1;FIFA World Cup;Düsseldorf;Germany;;;TRUE;Sweden;Yugoslavia;1;#N/D
+1974;7;6;Brazil 0 x 1 Poland;Brazil;Poland;0;1;FIFA World Cup;Munich;Germany;;;TRUE;Poland;Brazil;1;BR
+1974;7;7;Germany 2 x 1 Netherlands;Germany;Netherlands;2;1;FIFA World Cup;Munich;Germany;;;FALSE;Germany;Netherlands;1;#N/D
+1978;6;1;Germany 0 x 0 Poland;Germany;Poland;0;0;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Draw;Draw;0;#N/D
+1978;6;2;Argentina 2 x 1 Hungary;Argentina;Hungary;2;1;FIFA World Cup;Buenos Aires;Argentina;;;FALSE;Argentina;Hungary;1;#N/D
+1978;6;2;France 1 x 2 Italy;France;Italy;1;2;FIFA World Cup;Mar del Plata;Argentina;;;TRUE;Italy;France;1;#N/D
+1978;6;2;Mexico 1 x 3 Tunisia;Mexico;Tunisia;1;3;FIFA World Cup;Rosario;Argentina;;;TRUE;Tunisia;Mexico;2;#N/D
+1978;6;3;Austria 2 x 1 Spain;Austria;Spain;2;1;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Austria;Spain;1;#N/D
+1978;6;3;Brazil 1 x 1 Sweden;Brazil;Sweden;1;1;FIFA World Cup;Mar del Plata;Argentina;;;TRUE;Draw;Draw;0;BR
+1978;6;3;Iran 0 x 3 Netherlands;Iran;Netherlands;0;3;FIFA World Cup;Mendoza;Argentina;;;TRUE;Netherlands;Iran;3;#N/D
+1978;6;3;Peru 3 x 1 Scotland;Peru;Scotland;3;1;FIFA World Cup;Córdoba;Argentina;;;TRUE;Peru;Scotland;2;#N/D
+1978;6;6;Argentina 2 x 1 France;Argentina;France;2;1;FIFA World Cup;Buenos Aires;Argentina;;;FALSE;Argentina;France;1;#N/D
+1978;6;6;Germany 6 x 0 Mexico;Germany;Mexico;6;0;FIFA World Cup;Córdoba;Argentina;;;TRUE;Germany;Mexico;6;#N/D
+1978;6;6;Hungary 1 x 3 Italy;Hungary;Italy;1;3;FIFA World Cup;Mar del Plata;Argentina;;;TRUE;Italy;Hungary;2;#N/D
+1978;6;6;Poland 1 x 0 Tunisia;Poland;Tunisia;1;0;FIFA World Cup;Rosario;Argentina;;;TRUE;Poland;Tunisia;1;#N/D
+1978;6;7;Austria 1 x 0 Sweden;Austria;Sweden;1;0;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Austria;Sweden;1;#N/D
+1978;6;7;Brazil 0 x 0 Spain;Brazil;Spain;0;0;FIFA World Cup;Mar del Plata;Argentina;;;TRUE;Draw;Draw;0;BR
+1978;6;7;Iran 1 x 1 Scotland;Iran;Scotland;1;1;FIFA World Cup;Córdoba;Argentina;;;TRUE;Draw;Draw;0;#N/D
+1978;6;7;Netherlands 0 x 0 Peru;Netherlands;Peru;0;0;FIFA World Cup;Mendoza;Argentina;;;TRUE;Draw;Draw;0;#N/D
+1978;6;10;Argentina 0 x 1 Italy;Argentina;Italy;0;1;FIFA World Cup;Buenos Aires;Argentina;;;FALSE;Italy;Argentina;1;#N/D
+1978;6;10;France 3 x 1 Hungary;France;Hungary;3;1;FIFA World Cup;Mar del Plata;Argentina;;;TRUE;France;Hungary;2;#N/D
+1978;6;10;Germany 0 x 0 Tunisia;Germany;Tunisia;0;0;FIFA World Cup;Córdoba;Argentina;;;TRUE;Draw;Draw;0;#N/D
+1978;6;10;Mexico 1 x 3 Poland;Mexico;Poland;1;3;FIFA World Cup;Rosario;Argentina;;;TRUE;Poland;Mexico;2;#N/D
+1978;6;11;Austria 0 x 1 Brazil;Austria;Brazil;0;1;FIFA World Cup;Mar del Plata;Argentina;;;TRUE;Brazil;Austria;1;BR
+1978;6;11;Iran 1 x 4 Peru;Iran;Peru;1;4;FIFA World Cup;Córdoba;Argentina;;;TRUE;Peru;Iran;3;#N/D
+1978;6;11;Netherlands 2 x 3 Scotland;Netherlands;Scotland;2;3;FIFA World Cup;Mendoza;Argentina;;;TRUE;Scotland;Netherlands;1;#N/D
+1978;6;11;Spain 1 x 0 Sweden;Spain;Sweden;1;0;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Spain;Sweden;1;#N/D
+1978;6;14;Argentina 2 x 0 Poland;Argentina;Poland;2;0;FIFA World Cup;Rosario;Argentina;;;FALSE;Argentina;Poland;2;#N/D
+1978;6;14;Austria 1 x 5 Netherlands;Austria;Netherlands;1;5;FIFA World Cup;Córdoba;Argentina;;;TRUE;Netherlands;Austria;4;#N/D
+1978;6;14;Brazil 3 x 0 Peru;Brazil;Peru;3;0;FIFA World Cup;Mendoza;Argentina;;;TRUE;Brazil;Peru;3;BR
+1978;6;14;Germany 0 x 0 Italy;Germany;Italy;0;0;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Draw;Draw;0;#N/D
+1978;6;18;Argentina 0 x 0 Brazil;Argentina;Brazil;0;0;FIFA World Cup;Rosario;Argentina;;;FALSE;Draw;Draw;0;BR
+1978;6;18;Austria 0 x 1 Italy;Austria;Italy;0;1;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Italy;Austria;1;#N/D
+1978;6;18;Germany 2 x 2 Netherlands;Germany;Netherlands;2;2;FIFA World Cup;Córdoba;Argentina;;;TRUE;Draw;Draw;0;#N/D
+1978;6;18;Peru 0 x 1 Poland;Peru;Poland;0;1;FIFA World Cup;Mendoza;Argentina;;;TRUE;Poland;Peru;1;#N/D
+1978;6;21;Argentina 6 x 0 Peru;Argentina;Peru;6;0;FIFA World Cup;Rosario;Argentina;;;FALSE;Argentina;Peru;6;#N/D
+1978;6;21;Austria 3 x 2 Germany;Austria;Germany;3;2;FIFA World Cup;Córdoba;Argentina;;;TRUE;Austria;Germany;1;#N/D
+1978;6;21;Brazil 3 x 1 Poland;Brazil;Poland;3;1;FIFA World Cup;Mendoza;Argentina;;;TRUE;Brazil;Poland;2;BR
+1978;6;21;Italy 1 x 2 Netherlands;Italy;Netherlands;1;2;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Netherlands;Italy;1;#N/D
+1978;6;24;Brazil 2 x 1 Italy;Brazil;Italy;2;1;FIFA World Cup;Buenos Aires;Argentina;;;TRUE;Brazil;Italy;1;BR
+1978;6;25;Argentina 3 x 1 Netherlands;Argentina;Netherlands;3;1;FIFA World Cup;Buenos Aires;Argentina;;;FALSE;Argentina;Netherlands;2;#N/D
+1982;6;13;Argentina 0 x 1 Belgium;Argentina;Belgium;0;1;FIFA World Cup;Barcelona;Spain;;;TRUE;Belgium;Argentina;1;#N/D
+1982;6;14;Brazil 2 x 1 Russia;Brazil;Russia;2;1;FIFA World Cup;Seville;Spain;;;TRUE;Brazil;Russia;1;BR
+1982;6;14;Italy 0 x 0 Poland;Italy;Poland;0;0;FIFA World Cup;Vigo;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;15;Hungary 10 x 1 El Salvador;Hungary;El Salvador;10;1;FIFA World Cup;Elche;Spain;;;TRUE;Hungary;El Salvador;9;#N/D
+1982;6;15;Peru 0 x 0 Cameroon;Peru;Cameroon;0;0;FIFA World Cup;La Coruña;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;15;Scotland 5 x 2 New Zealand;Scotland;New Zealand;5;2;FIFA World Cup;Málaga;Spain;;;TRUE;Scotland;New Zealand;3;#N/D
+1982;6;16;England 3 x 1 France;England;France;3;1;FIFA World Cup;Bilbao;Spain;;;TRUE;England;France;2;#N/D
+1982;6;16;Germany 1 x 2 Algeria;Germany;Algeria;1;2;FIFA World Cup;Gijón;Spain;;;TRUE;Algeria;Germany;1;#N/D
+1982;6;16;Spain 1 x 1 Honduras;Spain;Honduras;1;1;FIFA World Cup;Valencia;Spain;;;FALSE;Draw;Draw;0;#N/D
+1982;6;17;Chile 0 x 1 Austria;Chile;Austria;0;1;FIFA World Cup;Oviedo;Spain;;;TRUE;Austria;Chile;1;#N/D
+1982;6;17;Czechoslovakia 1 x 1 Kuwait;Czechoslovakia;Kuwait;1;1;FIFA World Cup;Valladolid;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;17;Yugoslavia 0 x 0 Northern Ireland;Yugoslavia;Northern Ireland;0;0;FIFA World Cup;Zaragoza;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;18;Argentina 4 x 1 Hungary;Argentina;Hungary;4;1;FIFA World Cup;Alicante;Spain;;;TRUE;Argentina;Hungary;3;#N/D
+1982;6;18;Brazil 4 x 1 Scotland;Brazil;Scotland;4;1;FIFA World Cup;Seville;Spain;;;TRUE;Brazil;Scotland;3;BR
+1982;6;18;Italy 1 x 1 Peru;Italy;Peru;1;1;FIFA World Cup;Vigo;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;19;Belgium 1 x 0 El Salvador;Belgium;El Salvador;1;0;FIFA World Cup;Elche;Spain;;;TRUE;Belgium;El Salvador;1;#N/D
+1982;6;19;Poland 0 x 0 Cameroon;Poland;Cameroon;0;0;FIFA World Cup;La Coruña;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;19;Russia 3 x 0 New Zealand;Russia;New Zealand;3;0;FIFA World Cup;Málaga;Spain;;;TRUE;Russia;New Zealand;3;#N/D
+1982;6;20;England 2 x 0 Czechoslovakia;England;Czechoslovakia;2;0;FIFA World Cup;Bilbao;Spain;;;TRUE;England;Czechoslovakia;2;#N/D
+1982;6;20;Germany 4 x 1 Chile;Germany;Chile;4;1;FIFA World Cup;Gijón;Spain;;;TRUE;Germany;Chile;3;#N/D
+1982;6;20;Spain 2 x 1 Yugoslavia;Spain;Yugoslavia;2;1;FIFA World Cup;Valencia;Spain;;;FALSE;Spain;Yugoslavia;1;#N/D
+1982;6;21;Algeria 0 x 2 Austria;Algeria;Austria;0;2;FIFA World Cup;Oviedo;Spain;;;TRUE;Austria;Algeria;2;#N/D
+1982;6;21;France 4 x 1 Kuwait;France;Kuwait;4;1;FIFA World Cup;Valladolid;Spain;;;TRUE;France;Kuwait;3;#N/D
+1982;6;21;Honduras 1 x 1 Northern Ireland;Honduras;Northern Ireland;1;1;FIFA World Cup;Zaragoza;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;22;Belgium 1 x 1 Hungary;Belgium;Hungary;1;1;FIFA World Cup;Elche;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;22;Poland 5 x 1 Peru;Poland;Peru;5;1;FIFA World Cup;La Coruña;Spain;;;TRUE;Poland;Peru;4;#N/D
+1982;6;22;Russia 2 x 2 Scotland;Russia;Scotland;2;2;FIFA World Cup;Málaga;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;23;Argentina 2 x 0 El Salvador;Argentina;El Salvador;2;0;FIFA World Cup;Alicante;Spain;;;TRUE;Argentina;El Salvador;2;#N/D
+1982;6;23;Brazil 4 x 0 New Zealand;Brazil;New Zealand;4;0;FIFA World Cup;Seville;Spain;;;TRUE;Brazil;New Zealand;4;BR
+1982;6;23;Italy 1 x 1 Cameroon;Italy;Cameroon;1;1;FIFA World Cup;Vigo;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;24;Algeria 3 x 2 Chile;Algeria;Chile;3;2;FIFA World Cup;Oviedo;Spain;;;TRUE;Algeria;Chile;1;#N/D
+1982;6;24;France 1 x 1 Czechoslovakia;France;Czechoslovakia;1;1;FIFA World Cup;Valladolid;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;24;Honduras 0 x 1 Yugoslavia;Honduras;Yugoslavia;0;1;FIFA World Cup;Zaragoza;Spain;;;TRUE;Yugoslavia;Honduras;1;#N/D
+1982;6;25;England 1 x 0 Kuwait;England;Kuwait;1;0;FIFA World Cup;Bilbao;Spain;;;TRUE;England;Kuwait;1;#N/D
+1982;6;25;Germany 1 x 0 Austria;Germany;Austria;1;0;FIFA World Cup;Gijón;Spain;;;TRUE;Germany;Austria;1;#N/D
+1982;6;25;Spain 0 x 1 Northern Ireland;Spain;Northern Ireland;0;1;FIFA World Cup;Valencia;Spain;;;FALSE;Northern Ireland;Spain;1;#N/D
+1982;6;28;Austria 0 x 1 France;Austria;France;0;1;FIFA World Cup;Madrid;Spain;;;TRUE;France;Austria;1;#N/D
+1982;6;28;Poland 3 x 0 Belgium;Poland;Belgium;3;0;FIFA World Cup;Barcelona;Spain;;;TRUE;Poland;Belgium;3;#N/D
+1982;6;29;Germany 0 x 0 England;Germany;England;0;0;FIFA World Cup;Madrid;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;6;29;Italy 2 x 1 Argentina;Italy;Argentina;2;1;FIFA World Cup;Barcelona;Spain;;;TRUE;Italy;Argentina;1;#N/D
+1982;7;1;Austria 2 x 2 Northern Ireland;Austria;Northern Ireland;2;2;FIFA World Cup;Madrid;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;7;1;Belgium 0 x 1 Russia;Belgium;Russia;0;1;FIFA World Cup;Barcelona;Spain;;;TRUE;Russia;Belgium;1;#N/D
+1982;7;2;Argentina 1 x 3 Brazil;Argentina;Brazil;1;3;FIFA World Cup;Barcelona;Spain;;;TRUE;Brazil;Argentina;2;BR
+1982;7;2;Spain 1 x 2 Germany;Spain;Germany;1;2;FIFA World Cup;Madrid;Spain;;;FALSE;Germany;Spain;1;#N/D
+1982;7;4;France 4 x 1 Northern Ireland;France;Northern Ireland;4;1;FIFA World Cup;Madrid;Spain;;;TRUE;France;Northern Ireland;3;#N/D
+1982;7;4;Poland 0 x 0 Russia;Poland;Russia;0;0;FIFA World Cup;Barcelona;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;7;5;Italy 3 x 2 Brazil;Italy;Brazil;3;2;FIFA World Cup;Barcelona;Spain;;;TRUE;Italy;Brazil;1;BR
+1982;7;5;Spain 0 x 0 England;Spain;England;0;0;FIFA World Cup;Madrid;Spain;;;FALSE;Draw;Draw;0;#N/D
+1982;7;8;Germany 3 x 3 France;Germany;France;3;3;FIFA World Cup;Seville;Spain;;;TRUE;Draw;Draw;0;#N/D
+1982;7;8;Poland 0 x 2 Italy;Poland;Italy;0;2;FIFA World Cup;Barcelona;Spain;;;TRUE;Italy;Poland;2;#N/D
+1982;7;10;Poland 3 x 2 France;Poland;France;3;2;FIFA World Cup;Alicante;Spain;;;TRUE;Poland;France;1;#N/D
+1982;7;11;Italy 3 x 1 Germany;Italy;Germany;3;1;FIFA World Cup;Madrid;Spain;;;TRUE;Italy;Germany;2;#N/D
+1986;5;31;Bulgaria 1 x 1 Italy;Bulgaria;Italy;1;1;FIFA World Cup;Mexico City;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;1;Canada 0 x 1 France;Canada;France;0;1;FIFA World Cup;León;Mexico;;;TRUE;France;Canada;1;#N/D
+1986;6;1;Spain 0 x 1 Brazil;Spain;Brazil;0;1;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Spain;1;BR
+1986;6;2;Argentina 3 x 1 South Korea;Argentina;South Korea;3;1;FIFA World Cup;Mexico City;Mexico;;;TRUE;Argentina;South Korea;2;#N/D
+1986;6;2;Morocco 0 x 0 Poland;Morocco;Poland;0;0;FIFA World Cup;Monterrey;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;2;Russia 6 x 0 Hungary;Russia;Hungary;6;0;FIFA World Cup;Irapuato;Mexico;;;TRUE;Russia;Hungary;6;#N/D
+1986;6;3;Algeria 1 x 1 Northern Ireland;Algeria;Northern Ireland;1;1;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;3;Mexico 2 x 1 Belgium;Mexico;Belgium;2;1;FIFA World Cup;Mexico City;Mexico;;;FALSE;Mexico;Belgium;1;#N/D
+1986;6;3;Portugal 1 x 0 England;Portugal;England;1;0;FIFA World Cup;Monterrey;Mexico;;;TRUE;Portugal;England;1;#N/D
+1986;6;4;Paraguay 1 x 0 Iraq;Paraguay;Iraq;1;0;FIFA World Cup;Toluca;Mexico;;;TRUE;Paraguay;Iraq;1;#N/D
+1986;6;4;Scotland 0 x 1 Denmark;Scotland;Denmark;0;1;FIFA World Cup;Nezahualcóyotl;Mexico;;;TRUE;Denmark;Scotland;1;#N/D
+1986;6;4;Uruguay 1 x 1 Germany;Uruguay;Germany;1;1;FIFA World Cup;Querétaro;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;5;France 1 x 1 Russia;France;Russia;1;1;FIFA World Cup;León;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;5;Italy 1 x 1 Argentina;Italy;Argentina;1;1;FIFA World Cup;Puebla;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;5;South Korea 1 x 1 Bulgaria;South Korea;Bulgaria;1;1;FIFA World Cup;Mexico City;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;6;Brazil 1 x 0 Algeria;Brazil;Algeria;1;0;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Algeria;1;BR
+1986;6;6;England 0 x 0 Morocco;England;Morocco;0;0;FIFA World Cup;Monterrey;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;6;Hungary 2 x 0 Canada;Hungary;Canada;2;0;FIFA World Cup;Irapuato;Mexico;;;TRUE;Hungary;Canada;2;#N/D
+1986;6;7;Mexico 1 x 1 Paraguay;Mexico;Paraguay;1;1;FIFA World Cup;Mexico City;Mexico;;;FALSE;Draw;Draw;0;#N/D
+1986;6;7;Northern Ireland 1 x 2 Spain;Northern Ireland;Spain;1;2;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Spain;Northern Ireland;1;#N/D
+1986;6;7;Poland 1 x 0 Portugal;Poland;Portugal;1;0;FIFA World Cup;Monterrey;Mexico;;;TRUE;Poland;Portugal;1;#N/D
+1986;6;8;Denmark 6 x 1 Uruguay;Denmark;Uruguay;6;1;FIFA World Cup;Nezahualcóyotl;Mexico;;;TRUE;Denmark;Uruguay;5;#N/D
+1986;6;8;Germany 2 x 1 Scotland;Germany;Scotland;2;1;FIFA World Cup;Querétaro;Mexico;;;TRUE;Germany;Scotland;1;#N/D
+1986;6;8;Iraq 1 x 2 Belgium;Iraq;Belgium;1;2;FIFA World Cup;Toluca;Mexico;;;TRUE;Belgium;Iraq;1;#N/D
+1986;6;9;Hungary 0 x 3 France;Hungary;France;0;3;FIFA World Cup;León;Mexico;;;TRUE;France;Hungary;3;#N/D
+1986;6;9;Russia 2 x 0 Canada;Russia;Canada;2;0;FIFA World Cup;Irapuato;Mexico;;;TRUE;Russia;Canada;2;#N/D
+1986;6;10;Argentina 2 x 0 Bulgaria;Argentina;Bulgaria;2;0;FIFA World Cup;Mexico City;Mexico;;;TRUE;Argentina;Bulgaria;2;#N/D
+1986;6;10;South Korea 2 x 3 Italy;South Korea;Italy;2;3;FIFA World Cup;Puebla;Mexico;;;TRUE;Italy;South Korea;1;#N/D
+1986;6;11;England 3 x 0 Poland;England;Poland;3;0;FIFA World Cup;Monterrey;Mexico;;;TRUE;England;Poland;3;#N/D
+1986;6;11;Mexico 1 x 0 Iraq;Mexico;Iraq;1;0;FIFA World Cup;Mexico City;Mexico;;;FALSE;Mexico;Iraq;1;#N/D
+1986;6;11;Paraguay 2 x 2 Belgium;Paraguay;Belgium;2;2;FIFA World Cup;Toluca;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;11;Portugal 1 x 3 Morocco;Portugal;Morocco;1;3;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Morocco;Portugal;2;#N/D
+1986;6;12;Algeria 0 x 3 Spain;Algeria;Spain;0;3;FIFA World Cup;Monterrey;Mexico;;;TRUE;Spain;Algeria;3;#N/D
+1986;6;12;Northern Ireland 0 x 3 Brazil;Northern Ireland;Brazil;0;3;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Northern Ireland;3;BR
+1986;6;13;Denmark 2 x 0 Germany;Denmark;Germany;2;0;FIFA World Cup;Querétaro;Mexico;;;TRUE;Denmark;Germany;2;#N/D
+1986;6;13;Scotland 0 x 0 Uruguay;Scotland;Uruguay;0;0;FIFA World Cup;Nezahualcóyotl;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;15;Mexico 2 x 0 Bulgaria;Mexico;Bulgaria;2;0;FIFA World Cup;Mexico City;Mexico;;;FALSE;Mexico;Bulgaria;2;#N/D
+1986;6;15;Russia 3 x 4 Belgium;Russia;Belgium;3;4;FIFA World Cup;León;Mexico;;;TRUE;Belgium;Russia;1;#N/D
+1986;6;16;Argentina 1 x 0 Uruguay;Argentina;Uruguay;1;0;FIFA World Cup;Puebla;Mexico;;;TRUE;Argentina;Uruguay;1;#N/D
+1986;6;16;Brazil 4 x 0 Poland;Brazil;Poland;4;0;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Brazil;Poland;4;BR
+1986;6;17;Italy 0 x 2 France;Italy;France;0;2;FIFA World Cup;Mexico City;Mexico;;;TRUE;France;Italy;2;#N/D
+1986;6;17;Morocco 0 x 1 Germany;Morocco;Germany;0;1;FIFA World Cup;Monterrey;Mexico;;;TRUE;Germany;Morocco;1;#N/D
+1986;6;18;Denmark 1 x 5 Spain;Denmark;Spain;1;5;FIFA World Cup;Querétaro;Mexico;;;TRUE;Spain;Denmark;4;#N/D
+1986;6;18;England 3 x 0 Paraguay;England;Paraguay;3;0;FIFA World Cup;Mexico City;Mexico;;;TRUE;England;Paraguay;3;#N/D
+1986;6;21;Brazil 1 x 1 France;Brazil;France;1;1;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Draw;Draw;0;BR
+1986;6;21;Mexico 0 x 0 Germany;Mexico;Germany;0;0;FIFA World Cup;Monterrey;Mexico;;;FALSE;Draw;Draw;0;#N/D
+1986;6;22;Argentina 2 x 1 England;Argentina;England;2;1;FIFA World Cup;Mexico City;Mexico;;;TRUE;Argentina;England;1;#N/D
+1986;6;22;Spain 1 x 1 Belgium;Spain;Belgium;1;1;FIFA World Cup;Puebla;Mexico;;;TRUE;Draw;Draw;0;#N/D
+1986;6;25;Argentina 2 x 0 Belgium;Argentina;Belgium;2;0;FIFA World Cup;Mexico City;Mexico;;;TRUE;Argentina;Belgium;2;#N/D
+1986;6;25;France 0 x 2 Germany;France;Germany;0;2;FIFA World Cup;Guadalajara;Mexico;;;TRUE;Germany;France;2;#N/D
+1986;6;28;France 4 x 2 Belgium;France;Belgium;4;2;FIFA World Cup;Puebla;Mexico;;;TRUE;France;Belgium;2;#N/D
+1986;6;29;Argentina 3 x 2 Germany;Argentina;Germany;3;2;FIFA World Cup;Mexico City;Mexico;;;TRUE;Argentina;Germany;1;#N/D
+1990;6;8;Argentina 0 x 1 Cameroon;Argentina;Cameroon;0;1;FIFA World Cup;Milan;Italy;;;TRUE;Cameroon;Argentina;1;#N/D
+1990;6;9;Italy 1 x 0 Austria;Italy;Austria;1;0;FIFA World Cup;Rome;Italy;;;FALSE;Italy;Austria;1;#N/D
+1990;6;9;Russia 0 x 2 Romania;Russia;Romania;0;2;FIFA World Cup;Bari;Italy;;;TRUE;Romania;Russia;2;#N/D
+1990;6;9;United Arab Emirates 0 x 2 Colombia;United Arab Emirates;Colombia;0;2;FIFA World Cup;Bologna;Italy;;;TRUE;Colombia;United Arab Emirates;2;#N/D
+1990;6;10;Brazil 2 x 1 Sweden;Brazil;Sweden;2;1;FIFA World Cup;Turin;Italy;;;TRUE;Brazil;Sweden;1;BR
+1990;6;10;Germany 4 x 1 Yugoslavia;Germany;Yugoslavia;4;1;FIFA World Cup;Milan;Italy;;;TRUE;Germany;Yugoslavia;3;#N/D
+1990;6;10;United States 1 x 5 Czechoslovakia;United States;Czechoslovakia;1;5;FIFA World Cup;Florence;Italy;;;TRUE;Czechoslovakia;United States;4;#N/D
+1990;6;11;Costa Rica 1 x 0 Scotland;Costa Rica;Scotland;1;0;FIFA World Cup;Genoa;Italy;;;TRUE;Costa Rica;Scotland;1;#N/D
+1990;6;11;England 1 x 1 Republic of Ireland;England;Republic of Ireland;1;1;FIFA World Cup;Cagliari;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;12;Belgium 2 x 0 South Korea;Belgium;South Korea;2;0;FIFA World Cup;Verona;Italy;;;TRUE;Belgium;South Korea;2;#N/D
+1990;6;12;Netherlands 1 x 1 Egypt;Netherlands;Egypt;1;1;FIFA World Cup;Palermo;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;13;Argentina 2 x 0 Russia;Argentina;Russia;2;0;FIFA World Cup;Naples;Italy;;;TRUE;Argentina;Russia;2;#N/D
+1990;6;13;Uruguay 0 x 0 Spain;Uruguay;Spain;0;0;FIFA World Cup;Udine;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;14;Cameroon 2 x 1 Romania;Cameroon;Romania;2;1;FIFA World Cup;Bari;Italy;;;TRUE;Cameroon;Romania;1;#N/D
+1990;6;14;Italy 1 x 0 United States;Italy;United States;1;0;FIFA World Cup;Rome;Italy;;;FALSE;Italy;United States;1;#N/D
+1990;6;14;Yugoslavia 1 x 0 Colombia;Yugoslavia;Colombia;1;0;FIFA World Cup;Bologna;Italy;;;TRUE;Yugoslavia;Colombia;1;#N/D
+1990;6;15;Austria 0 x 1 Czechoslovakia;Austria;Czechoslovakia;0;1;FIFA World Cup;Florence;Italy;;;TRUE;Czechoslovakia;Austria;1;#N/D
+1990;6;15;Germany 5 x 1 United Arab Emirates;Germany;United Arab Emirates;5;1;FIFA World Cup;Milan;Italy;;;TRUE;Germany;United Arab Emirates;4;#N/D
+1990;6;16;Brazil 1 x 0 Costa Rica;Brazil;Costa Rica;1;0;FIFA World Cup;Turin;Italy;;;TRUE;Brazil;Costa Rica;1;BR
+1990;6;16;England 0 x 0 Netherlands;England;Netherlands;0;0;FIFA World Cup;Cagliari;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;16;Sweden 1 x 2 Scotland;Sweden;Scotland;1;2;FIFA World Cup;Genoa;Italy;;;TRUE;Scotland;Sweden;1;#N/D
+1990;6;17;Belgium 3 x 1 Uruguay;Belgium;Uruguay;3;1;FIFA World Cup;Verona;Italy;;;TRUE;Belgium;Uruguay;2;#N/D
+1990;6;17;Republic of Ireland 0 x 0 Egypt;Republic of Ireland;Egypt;0;0;FIFA World Cup;Palermo;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;17;South Korea 1 x 3 Spain;South Korea;Spain;1;3;FIFA World Cup;Udine;Italy;;;TRUE;Spain;South Korea;2;#N/D
+1990;6;18;Argentina 1 x 1 Romania;Argentina;Romania;1;1;FIFA World Cup;Naples;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;18;Cameroon 0 x 4 Russia;Cameroon;Russia;0;4;FIFA World Cup;Bari;Italy;;;TRUE;Russia;Cameroon;4;#N/D
+1990;6;19;Austria 2 x 1 United States;Austria;United States;2;1;FIFA World Cup;Florence;Italy;;;TRUE;Austria;United States;1;#N/D
+1990;6;19;Germany 1 x 1 Colombia;Germany;Colombia;1;1;FIFA World Cup;Milan;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;19;Italy 2 x 0 Czechoslovakia;Italy;Czechoslovakia;2;0;FIFA World Cup;Rome;Italy;;;FALSE;Italy;Czechoslovakia;2;#N/D
+1990;6;19;Yugoslavia 4 x 1 United Arab Emirates;Yugoslavia;United Arab Emirates;4;1;FIFA World Cup;Bologna;Italy;;;TRUE;Yugoslavia;United Arab Emirates;3;#N/D
+1990;6;20;Brazil 1 x 0 Scotland;Brazil;Scotland;1;0;FIFA World Cup;Turin;Italy;;;TRUE;Brazil;Scotland;1;BR
+1990;6;20;Sweden 1 x 2 Costa Rica;Sweden;Costa Rica;1;2;FIFA World Cup;Genoa;Italy;;;TRUE;Costa Rica;Sweden;1;#N/D
+1990;6;21;Belgium 1 x 2 Spain;Belgium;Spain;1;2;FIFA World Cup;Verona;Italy;;;TRUE;Spain;Belgium;1;#N/D
+1990;6;21;England 1 x 0 Egypt;England;Egypt;1;0;FIFA World Cup;Cagliari;Italy;;;TRUE;England;Egypt;1;#N/D
+1990;6;21;Republic of Ireland 1 x 1 Netherlands;Republic of Ireland;Netherlands;1;1;FIFA World Cup;Palermo;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;21;South Korea 0 x 1 Uruguay;South Korea;Uruguay;0;1;FIFA World Cup;Udine;Italy;;;TRUE;Uruguay;South Korea;1;#N/D
+1990;6;23;Cameroon 2 x 1 Colombia;Cameroon;Colombia;2;1;FIFA World Cup;Naples;Italy;;;TRUE;Cameroon;Colombia;1;#N/D
+1990;6;23;Czechoslovakia 4 x 1 Costa Rica;Czechoslovakia;Costa Rica;4;1;FIFA World Cup;Bari;Italy;;;TRUE;Czechoslovakia;Costa Rica;3;#N/D
+1990;6;24;Brazil 0 x 1 Argentina;Brazil;Argentina;0;1;FIFA World Cup;Turin;Italy;;;TRUE;Argentina;Brazil;1;BR
+1990;6;24;Germany 2 x 1 Netherlands;Germany;Netherlands;2;1;FIFA World Cup;Milan;Italy;;;TRUE;Germany;Netherlands;1;#N/D
+1990;6;25;Republic of Ireland 0 x 0 Romania;Republic of Ireland;Romania;0;0;FIFA World Cup;Genoa;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;6;25;Italy 2 x 0 Uruguay;Italy;Uruguay;2;0;FIFA World Cup;Rome;Italy;;;FALSE;Italy;Uruguay;2;#N/D
+1990;6;26;England 1 x 0 Belgium;England;Belgium;1;0;FIFA World Cup;Bologna;Italy;;;TRUE;England;Belgium;1;#N/D
+1990;6;26;Spain 1 x 2 Yugoslavia;Spain;Yugoslavia;1;2;FIFA World Cup;Verona;Italy;;;TRUE;Yugoslavia;Spain;1;#N/D
+1990;6;30;Italy 1 x 0 Republic of Ireland;Italy;Republic of Ireland;1;0;FIFA World Cup;Rome;Italy;;;FALSE;Italy;Republic of Ireland;1;#N/D
+1990;6;30;Yugoslavia 0 x 0 Argentina;Yugoslavia;Argentina;0;0;FIFA World Cup;Florence;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;7;1;Cameroon 2 x 3 England;Cameroon;England;2;3;FIFA World Cup;Naples;Italy;;;TRUE;England;Cameroon;1;#N/D
+1990;7;1;Germany 1 x 0 Czechoslovakia;Germany;Czechoslovakia;1;0;FIFA World Cup;Milan;Italy;;;TRUE;Germany;Czechoslovakia;1;#N/D
+1990;7;3;Italy 1 x 1 Argentina;Italy;Argentina;1;1;FIFA World Cup;Naples;Italy;;;FALSE;Draw;Draw;0;#N/D
+1990;7;4;Germany 1 x 1 England;Germany;England;1;1;FIFA World Cup;Turin;Italy;;;TRUE;Draw;Draw;0;#N/D
+1990;7;7;Italy 2 x 1 England;Italy;England;2;1;FIFA World Cup;Bari;Italy;;;FALSE;Italy;England;1;#N/D
+1990;7;8;Germany 1 x 0 Argentina;Germany;Argentina;1;0;FIFA World Cup;Rome;Italy;;;TRUE;Germany;Argentina;1;#N/D
+1994;6;17;Germany 1 x 0 Bolivia;Germany;Bolivia;1;0;FIFA World Cup;Chicago;United States;;;TRUE;Germany;Bolivia;1;#N/D
+1994;6;17;Spain 2 x 2 South Korea;Spain;South Korea;2;2;FIFA World Cup;Dallas;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;6;18;Colombia 1 x 3 Romania;Colombia;Romania;1;3;FIFA World Cup;Pasadena;United States;;;TRUE;Romania;Colombia;2;#N/D
+1994;6;18;Italy 0 x 1 Republic of Ireland;Italy;Republic of Ireland;0;1;FIFA World Cup;East Rutherford;United States;;;TRUE;Republic of Ireland;Italy;1;#N/D
+1994;6;18;United States 1 x 1 Switzerland;United States;Switzerland;1;1;FIFA World Cup;Pontiac;United States;;;FALSE;Draw;Draw;0;#N/D
+1994;6;19;Belgium 1 x 0 Morocco;Belgium;Morocco;1;0;FIFA World Cup;Orlando;United States;;;TRUE;Belgium;Morocco;1;#N/D
+1994;6;19;Cameroon 2 x 2 Sweden;Cameroon;Sweden;2;2;FIFA World Cup;Pasadena;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;6;19;Norway 1 x 0 Mexico;Norway;Mexico;1;0;FIFA World Cup;Washington;United States;;;TRUE;Norway;Mexico;1;#N/D
+1994;6;20;Brazil 2 x 0 Russia;Brazil;Russia;2;0;FIFA World Cup;Palo Alto;United States;;;TRUE;Brazil;Russia;2;BR
+1994;6;20;Netherlands 2 x 1 Saudi Arabia;Netherlands;Saudi Arabia;2;1;FIFA World Cup;Washington;United States;;;TRUE;Netherlands;Saudi Arabia;1;#N/D
+1994;6;21;Argentina 4 x 0 Greece;Argentina;Greece;4;0;FIFA World Cup;Foxborough;United States;;;TRUE;Argentina;Greece;4;#N/D
+1994;6;21;Germany 1 x 1 Spain;Germany;Spain;1;1;FIFA World Cup;Chicago;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;6;21;Nigeria 3 x 0 Bulgaria;Nigeria;Bulgaria;3;0;FIFA World Cup;Dallas;United States;;;TRUE;Nigeria;Bulgaria;3;#N/D
+1994;6;22;Romania 1 x 4 Switzerland;Romania;Switzerland;1;4;FIFA World Cup;Pontiac;United States;;;TRUE;Switzerland;Romania;3;#N/D
+1994;6;22;United States 2 x 1 Colombia;United States;Colombia;2;1;FIFA World Cup;Pasadena;United States;;;FALSE;United States;Colombia;1;#N/D
+1994;6;23;Italy 1 x 0 Norway;Italy;Norway;1;0;FIFA World Cup;East Rutherford;United States;;;TRUE;Italy;Norway;1;#N/D
+1994;6;23;South Korea 0 x 0 Bolivia;South Korea;Bolivia;0;0;FIFA World Cup;Foxborough;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;6;24;Brazil 3 x 0 Cameroon;Brazil;Cameroon;3;0;FIFA World Cup;Palo Alto;United States;;;TRUE;Brazil;Cameroon;3;BR
+1994;6;24;Mexico 2 x 1 Republic of Ireland;Mexico;Republic of Ireland;2;1;FIFA World Cup;Orlando;United States;;;TRUE;Mexico;Republic of Ireland;1;#N/D
+1994;6;24;Sweden 3 x 1 Russia;Sweden;Russia;3;1;FIFA World Cup;Pontiac;United States;;;TRUE;Sweden;Russia;2;#N/D
+1994;6;25;Argentina 2 x 1 Nigeria;Argentina;Nigeria;2;1;FIFA World Cup;Foxborough;United States;;;TRUE;Argentina;Nigeria;1;#N/D
+1994;6;25;Belgium 1 x 0 Netherlands;Belgium;Netherlands;1;0;FIFA World Cup;Orlando;United States;;;TRUE;Belgium;Netherlands;1;#N/D
+1994;6;25;Saudi Arabia 2 x 1 Morocco;Saudi Arabia;Morocco;2;1;FIFA World Cup;East Rutherford;United States;;;TRUE;Saudi Arabia;Morocco;1;#N/D
+1994;6;26;Bulgaria 4 x 0 Greece;Bulgaria;Greece;4;0;FIFA World Cup;Chicago;United States;;;TRUE;Bulgaria;Greece;4;#N/D
+1994;6;26;Switzerland 0 x 2 Colombia;Switzerland;Colombia;0;2;FIFA World Cup;Palo Alto;United States;;;TRUE;Colombia;Switzerland;2;#N/D
+1994;6;26;United States 0 x 1 Romania;United States;Romania;0;1;FIFA World Cup;Pasadena;United States;;;FALSE;Romania;United States;1;#N/D
+1994;6;27;Bolivia 1 x 3 Spain;Bolivia;Spain;1;3;FIFA World Cup;Chicago;United States;;;TRUE;Spain;Bolivia;2;#N/D
+1994;6;27;Germany 3 x 2 South Korea;Germany;South Korea;3;2;FIFA World Cup;Dallas;United States;;;TRUE;Germany;South Korea;1;#N/D
+1994;6;28;Brazil 1 x 1 Sweden;Brazil;Sweden;1;1;FIFA World Cup;Pontiac;United States;;;TRUE;Draw;Draw;0;BR
+1994;6;28;Republic of Ireland 0 x 0 Norway;Republic of Ireland;Norway;0;0;FIFA World Cup;East Rutherford;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;6;28;Italy 1 x 1 Mexico;Italy;Mexico;1;1;FIFA World Cup;Washington;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;6;28;Russia 6 x 1 Cameroon;Russia;Cameroon;6;1;FIFA World Cup;Palo Alto;United States;;;TRUE;Russia;Cameroon;5;#N/D
+1994;6;29;Belgium 0 x 1 Saudi Arabia;Belgium;Saudi Arabia;0;1;FIFA World Cup;Washington;United States;;;TRUE;Saudi Arabia;Belgium;1;#N/D
+1994;6;29;Morocco 1 x 2 Netherlands;Morocco;Netherlands;1;2;FIFA World Cup;Orlando;United States;;;TRUE;Netherlands;Morocco;1;#N/D
+1994;6;30;Argentina 0 x 2 Bulgaria;Argentina;Bulgaria;0;2;FIFA World Cup;Dallas;United States;;;TRUE;Bulgaria;Argentina;2;#N/D
+1994;6;30;Greece 0 x 2 Nigeria;Greece;Nigeria;0;2;FIFA World Cup;Foxborough;United States;;;TRUE;Nigeria;Greece;2;#N/D
+1994;7;2;Germany 3 x 2 Belgium;Germany;Belgium;3;2;FIFA World Cup;Chicago;United States;;;TRUE;Germany;Belgium;1;#N/D
+1994;7;2;Spain 3 x 0 Switzerland;Spain;Switzerland;3;0;FIFA World Cup;Washington;United States;;;TRUE;Spain;Switzerland;3;#N/D
+1994;7;3;Romania 3 x 2 Argentina;Romania;Argentina;3;2;FIFA World Cup;Pasadena;United States;;;TRUE;Romania;Argentina;1;#N/D
+1994;7;3;Saudi Arabia 1 x 3 Sweden;Saudi Arabia;Sweden;1;3;FIFA World Cup;Dallas;United States;;;TRUE;Sweden;Saudi Arabia;2;#N/D
+1994;7;4;Netherlands 2 x 0 Republic of Ireland;Netherlands;Republic of Ireland;2;0;FIFA World Cup;Orlando;United States;;;TRUE;Netherlands;Republic of Ireland;2;#N/D
+1994;7;4;United States 0 x 1 Brazil;United States;Brazil;0;1;FIFA World Cup;Palo Alto;United States;;;FALSE;Brazil;United States;1;BR
+1994;7;5;Mexico 1 x 1 Bulgaria;Mexico;Bulgaria;1;1;FIFA World Cup;East Rutherford;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;7;5;Nigeria 1 x 2 Italy;Nigeria;Italy;1;2;FIFA World Cup;Foxborough;United States;;;TRUE;Italy;Nigeria;1;#N/D
+1994;7;9;Italy 2 x 1 Spain;Italy;Spain;2;1;FIFA World Cup;Foxborough;United States;;;TRUE;Italy;Spain;1;#N/D
+1994;7;9;Netherlands 2 x 3 Brazil;Netherlands;Brazil;2;3;FIFA World Cup;Dallas;United States;;;TRUE;Brazil;Netherlands;1;BR
+1994;7;10;Bulgaria 2 x 1 Germany;Bulgaria;Germany;2;1;FIFA World Cup;East Rutherford;United States;;;TRUE;Bulgaria;Germany;1;#N/D
+1994;7;10;Romania 2 x 2 Sweden;Romania;Sweden;2;2;FIFA World Cup;Palo Alto;United States;;;TRUE;Draw;Draw;0;#N/D
+1994;7;13;Bulgaria 1 x 2 Italy;Bulgaria;Italy;1;2;FIFA World Cup;East Rutherford;United States;;;TRUE;Italy;Bulgaria;1;#N/D
+1994;7;13;Sweden 0 x 1 Brazil;Sweden;Brazil;0;1;FIFA World Cup;Pasadena;United States;;;TRUE;Brazil;Sweden;1;BR
+1994;7;16;Sweden 4 x 0 Bulgaria;Sweden;Bulgaria;4;0;FIFA World Cup;Pasadena;United States;;;TRUE;Sweden;Bulgaria;4;#N/D
+1994;7;17;Brazil 0 x 0 Italy;Brazil;Italy;0;0;FIFA World Cup;Pasadena;United States;;;TRUE;Draw;Draw;0;BR
+1998;6;10;Brazil 2 x 1 Scotland;Brazil;Scotland;2;1;FIFA World Cup;Saint-Denis;France;;;TRUE;Brazil;Scotland;1;BR
+1998;6;10;Morocco 2 x 2 Norway;Morocco;Norway;2;2;FIFA World Cup;Montpellier;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;11;Cameroon 1 x 1 Austria;Cameroon;Austria;1;1;FIFA World Cup;Toulouse;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;11;Italy 2 x 2 Chile;Italy;Chile;2;2;FIFA World Cup;Bordeaux;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;12;France 3 x 0 South Africa;France;South Africa;3;0;FIFA World Cup;Marseille;France;;;FALSE;France;South Africa;3;#N/D
+1998;6;12;Paraguay 0 x 0 Bulgaria;Paraguay;Bulgaria;0;0;FIFA World Cup;Montpellier;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;12;Saudi Arabia 0 x 1 Denmark;Saudi Arabia;Denmark;0;1;FIFA World Cup;Lens;France;;;TRUE;Denmark;Saudi Arabia;1;#N/D
+1998;6;13;South Korea 1 x 3 Mexico;South Korea;Mexico;1;3;FIFA World Cup;Lyon;France;;;TRUE;Mexico;South Korea;2;#N/D
+1998;6;13;Netherlands 0 x 0 Belgium;Netherlands;Belgium;0;0;FIFA World Cup;Saint-Denis;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;13;Spain 2 x 3 Nigeria;Spain;Nigeria;2;3;FIFA World Cup;Nantes;France;;;TRUE;Nigeria;Spain;1;#N/D
+1998;6;14;Argentina 1 x 0 Japan;Argentina;Japan;1;0;FIFA World Cup;Toulouse;France;;;TRUE;Argentina;Japan;1;#N/D
+1998;6;14;Jamaica 1 x 3 Croatia;Jamaica;Croatia;1;3;FIFA World Cup;Lens;France;;;TRUE;Croatia;Jamaica;2;#N/D
+1998;6;14;Serbia 1 x 0 Iran;Serbia;Iran;1;0;FIFA World Cup;Saint-Étienne;France;;;TRUE;Serbia;Iran;1;#N/D
+1998;6;15;England 2 x 0 Tunisia;England;Tunisia;2;0;FIFA World Cup;Marseille;France;;;TRUE;England;Tunisia;2;#N/D
+1998;6;15;Germany 2 x 0 United States;Germany;United States;2;0;FIFA World Cup;Paris;France;;;TRUE;Germany;United States;2;#N/D
+1998;6;15;Romania 1 x 0 Colombia;Romania;Colombia;1;0;FIFA World Cup;Lyon;France;;;TRUE;Romania;Colombia;1;#N/D
+1998;6;16;Brazil 3 x 0 Morocco;Brazil;Morocco;3;0;FIFA World Cup;Nantes;France;;;TRUE;Brazil;Morocco;3;BR
+1998;6;16;Scotland 1 x 1 Norway;Scotland;Norway;1;1;FIFA World Cup;Bordeaux;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;17;Chile 1 x 1 Austria;Chile;Austria;1;1;FIFA World Cup;Saint-Étienne;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;17;Italy 3 x 0 Cameroon;Italy;Cameroon;3;0;FIFA World Cup;Montpellier;France;;;TRUE;Italy;Cameroon;3;#N/D
+1998;6;18;France 4 x 0 Saudi Arabia;France;Saudi Arabia;4;0;FIFA World Cup;Saint-Denis;France;;;FALSE;France;Saudi Arabia;4;#N/D
+1998;6;18;South Africa 1 x 1 Denmark;South Africa;Denmark;1;1;FIFA World Cup;Toulouse;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;19;Nigeria 1 x 0 Bulgaria;Nigeria;Bulgaria;1;0;FIFA World Cup;Paris;France;;;TRUE;Nigeria;Bulgaria;1;#N/D
+1998;6;19;Spain 0 x 0 Paraguay;Spain;Paraguay;0;0;FIFA World Cup;Saint-Étienne;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;20;Belgium 2 x 2 Mexico;Belgium;Mexico;2;2;FIFA World Cup;Bordeaux;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;20;Japan 0 x 1 Croatia;Japan;Croatia;0;1;FIFA World Cup;Nantes;France;;;TRUE;Croatia;Japan;1;#N/D
+1998;6;20;Netherlands 5 x 0 South Korea;Netherlands;South Korea;5;0;FIFA World Cup;Marseille;France;;;TRUE;Netherlands;South Korea;5;#N/D
+1998;6;21;Argentina 5 x 0 Jamaica;Argentina;Jamaica;5;0;FIFA World Cup;Paris;France;;;TRUE;Argentina;Jamaica;5;#N/D
+1998;6;21;Germany 2 x 2 Serbia;Germany;Serbia;2;2;FIFA World Cup;Lens;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;21;United States 1 x 2 Iran;United States;Iran;1;2;FIFA World Cup;Lyon;France;;;TRUE;Iran;United States;1;#N/D
+1998;6;22;Colombia 1 x 0 Tunisia;Colombia;Tunisia;1;0;FIFA World Cup;Montpellier;France;;;TRUE;Colombia;Tunisia;1;#N/D
+1998;6;22;Romania 2 x 1 England;Romania;England;2;1;FIFA World Cup;Toulouse;France;;;TRUE;Romania;England;1;#N/D
+1998;6;23;Brazil 1 x 2 Norway;Brazil;Norway;1;2;FIFA World Cup;Marseille;France;;;TRUE;Norway;Brazil;1;BR
+1998;6;23;Chile 1 x 1 Cameroon;Chile;Cameroon;1;1;FIFA World Cup;Nantes;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;23;Italy 2 x 1 Austria;Italy;Austria;2;1;FIFA World Cup;Saint-Denis;France;;;TRUE;Italy;Austria;1;#N/D
+1998;6;23;Scotland 0 x 3 Morocco;Scotland;Morocco;0;3;FIFA World Cup;Saint-Étienne;France;;;TRUE;Morocco;Scotland;3;#N/D
+1998;6;24;France 2 x 1 Denmark;France;Denmark;2;1;FIFA World Cup;Lyon;France;;;FALSE;France;Denmark;1;#N/D
+1998;6;24;Nigeria 1 x 3 Paraguay;Nigeria;Paraguay;1;3;FIFA World Cup;Toulouse;France;;;TRUE;Paraguay;Nigeria;2;#N/D
+1998;6;24;South Africa 2 x 2 Saudi Arabia;South Africa;Saudi Arabia;2;2;FIFA World Cup;Bordeaux;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;24;Spain 6 x 1 Bulgaria;Spain;Bulgaria;6;1;FIFA World Cup;Lens;France;;;TRUE;Spain;Bulgaria;5;#N/D
+1998;6;25;Belgium 1 x 1 South Korea;Belgium;South Korea;1;1;FIFA World Cup;Paris;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;25;Germany 2 x 0 Iran;Germany;Iran;2;0;FIFA World Cup;Montpellier;France;;;TRUE;Germany;Iran;2;#N/D
+1998;6;25;Netherlands 2 x 2 Mexico;Netherlands;Mexico;2;2;FIFA World Cup;Saint-Étienne;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;25;United States 0 x 1 Serbia;United States;Serbia;0;1;FIFA World Cup;Nantes;France;;;TRUE;Serbia;United States;1;#N/D
+1998;6;26;Argentina 1 x 0 Croatia;Argentina;Croatia;1;0;FIFA World Cup;Bordeaux;France;;;TRUE;Argentina;Croatia;1;#N/D
+1998;6;26;Colombia 0 x 2 England;Colombia;England;0;2;FIFA World Cup;Lens;France;;;TRUE;England;Colombia;2;#N/D
+1998;6;26;Japan 1 x 2 Jamaica;Japan;Jamaica;1;2;FIFA World Cup;Lyon;France;;;TRUE;Jamaica;Japan;1;#N/D
+1998;6;26;Romania 1 x 1 Tunisia;Romania;Tunisia;1;1;FIFA World Cup;Saint-Denis;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;27;Brazil 4 x 1 Chile;Brazil;Chile;4;1;FIFA World Cup;Paris;France;;;TRUE;Brazil;Chile;3;BR
+1998;6;27;Italy 1 x 0 Norway;Italy;Norway;1;0;FIFA World Cup;Marseille;France;;;TRUE;Italy;Norway;1;#N/D
+1998;6;28;France 1 x 0 Paraguay;France;Paraguay;1;0;FIFA World Cup;Lens;France;;;FALSE;France;Paraguay;1;#N/D
+1998;6;28;Nigeria 1 x 4 Denmark;Nigeria;Denmark;1;4;FIFA World Cup;Saint-Denis;France;;;TRUE;Denmark;Nigeria;3;#N/D
+1998;6;29;Germany 2 x 1 Mexico;Germany;Mexico;2;1;FIFA World Cup;Montpellier;France;;;TRUE;Germany;Mexico;1;#N/D
+1998;6;29;Netherlands 2 x 1 Serbia;Netherlands;Serbia;2;1;FIFA World Cup;Toulouse;France;;;TRUE;Netherlands;Serbia;1;#N/D
+1998;6;30;Argentina 2 x 2 England;Argentina;England;2;2;FIFA World Cup;Saint-Étienne;France;;;TRUE;Draw;Draw;0;#N/D
+1998;6;30;Romania 0 x 1 Croatia;Romania;Croatia;0;1;FIFA World Cup;Bordeaux;France;;;TRUE;Croatia;Romania;1;#N/D
+1998;7;3;Brazil 3 x 2 Denmark;Brazil;Denmark;3;2;FIFA World Cup;Nantes;France;;;TRUE;Brazil;Denmark;1;BR
+1998;7;3;France 0 x 0 Italy;France;Italy;0;0;FIFA World Cup;Saint-Denis;France;;;FALSE;Draw;Draw;0;#N/D
+1998;7;4;Germany 0 x 3 Croatia;Germany;Croatia;0;3;FIFA World Cup;Lyon;France;;;TRUE;Croatia;Germany;3;#N/D
+1998;7;4;Netherlands 2 x 1 Argentina;Netherlands;Argentina;2;1;FIFA World Cup;Marseille;France;;;TRUE;Netherlands;Argentina;1;#N/D
+1998;7;7;Brazil 1 x 1 Netherlands;Brazil;Netherlands;1;1;FIFA World Cup;Marseille;France;;;TRUE;Draw;Draw;0;BR
+1998;7;8;France 2 x 1 Croatia;France;Croatia;2;1;FIFA World Cup;Saint-Denis;France;;;FALSE;France;Croatia;1;#N/D
+1998;7;11;Netherlands 1 x 2 Croatia;Netherlands;Croatia;1;2;FIFA World Cup;Paris;France;;;TRUE;Croatia;Netherlands;1;#N/D
+1998;7;12;France 3 x 0 Brazil;France;Brazil;3;0;FIFA World Cup;Saint-Denis;France;;;FALSE;France;Brazil;3;BR
+2002;5;31;France 0 x 1 Senegal;France;Senegal;0;1;FIFA World Cup;Seoul;South Korea;;;TRUE;Senegal;France;1;#N/D
+2002;6;1;Germany 8 x 0 Saudi Arabia;Germany;Saudi Arabia;8;0;FIFA World Cup;Sapporo;Japan;;;TRUE;Germany;Saudi Arabia;8;#N/D
+2002;6;1;Republic of Ireland 1 x 1 Cameroon;Republic of Ireland;Cameroon;1;1;FIFA World Cup;Niigata;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;1;Uruguay 1 x 2 Denmark;Uruguay;Denmark;1;2;FIFA World Cup;Ulsan;South Korea;;;TRUE;Denmark;Uruguay;1;#N/D
+2002;6;2;Argentina 1 x 0 Nigeria;Argentina;Nigeria;1;0;FIFA World Cup;Kashima;Japan;;;TRUE;Argentina;Nigeria;1;#N/D
+2002;6;2;England 1 x 1 Sweden;England;Sweden;1;1;FIFA World Cup;Saitama;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;2;Paraguay 2 x 2 South Africa;Paraguay;South Africa;2;2;FIFA World Cup;Busan;South Korea;;;TRUE;Draw;Draw;0;#N/D
+2002;6;2;Spain 3 x 1 Slovenia;Spain;Slovenia;3;1;FIFA World Cup;Gwangju;South Korea;;;TRUE;Spain;Slovenia;2;#N/D
+2002;6;3;Brazil 2 x 1 Turkey;Brazil;Turkey;2;1;FIFA World Cup;Ulsan;South Korea;;;TRUE;Brazil;Turkey;1;BR
+2002;6;3;Croatia 0 x 1 Mexico;Croatia;Mexico;0;1;FIFA World Cup;Niigata;Japan;;;TRUE;Mexico;Croatia;1;#N/D
+2002;6;3;Italy 2 x 0 Ecuador;Italy;Ecuador;2;0;FIFA World Cup;Sapporo;Japan;;;TRUE;Italy;Ecuador;2;#N/D
+2002;6;4;China PR 0 x 2 Costa Rica;China PR;Costa Rica;0;2;FIFA World Cup;Gwangju;South Korea;;;TRUE;Costa Rica;China PR;2;#N/D
+2002;6;4;Japan 2 x 2 Belgium;Japan;Belgium;2;2;FIFA World Cup;Saitama;Japan;;;FALSE;Draw;Draw;0;#N/D
+2002;6;4;South Korea 2 x 0 Poland;South Korea;Poland;2;0;FIFA World Cup;Busan;South Korea;;;FALSE;South Korea;Poland;2;#N/D
+2002;6;5;Germany 1 x 1 Republic of Ireland;Germany;Republic of Ireland;1;1;FIFA World Cup;Kashima;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;5;Russia 2 x 0 Tunisia;Russia;Tunisia;2;0;FIFA World Cup;Kobe;Japan;;;TRUE;Russia;Tunisia;2;#N/D
+2002;6;5;United States 3 x 2 Portugal;United States;Portugal;3;2;FIFA World Cup;Suwon;South Korea;;;TRUE;United States;Portugal;1;#N/D
+2002;6;6;Cameroon 1 x 0 Saudi Arabia;Cameroon;Saudi Arabia;1;0;FIFA World Cup;Saitama;Japan;;;TRUE;Cameroon;Saudi Arabia;1;#N/D
+2002;6;6;Denmark 1 x 1 Senegal;Denmark;Senegal;1;1;FIFA World Cup;Daegu;South Korea;;;TRUE;Draw;Draw;0;#N/D
+2002;6;6;France 0 x 0 Uruguay;France;Uruguay;0;0;FIFA World Cup;Busan;South Korea;;;TRUE;Draw;Draw;0;#N/D
+2002;6;7;Argentina 0 x 1 England;Argentina;England;0;1;FIFA World Cup;Sapporo;Japan;;;TRUE;England;Argentina;1;#N/D
+2002;6;7;Spain 3 x 1 Paraguay;Spain;Paraguay;3;1;FIFA World Cup;Jeonju;South Korea;;;TRUE;Spain;Paraguay;2;#N/D
+2002;6;7;Sweden 2 x 1 Nigeria;Sweden;Nigeria;2;1;FIFA World Cup;Kobe;Japan;;;TRUE;Sweden;Nigeria;1;#N/D
+2002;6;8;Brazil 4 x 0 China PR;Brazil;China PR;4;0;FIFA World Cup;Seogwipo;South Korea;;;TRUE;Brazil;China PR;4;BR
+2002;6;8;Italy 1 x 2 Croatia;Italy;Croatia;1;2;FIFA World Cup;Kashima;Japan;;;TRUE;Croatia;Italy;1;#N/D
+2002;6;8;South Africa 1 x 0 Slovenia;South Africa;Slovenia;1;0;FIFA World Cup;Daegu;South Korea;;;TRUE;South Africa;Slovenia;1;#N/D
+2002;6;9;Costa Rica 1 x 1 Turkey;Costa Rica;Turkey;1;1;FIFA World Cup;Incheon;South Korea;;;TRUE;Draw;Draw;0;#N/D
+2002;6;9;Japan 1 x 0 Russia;Japan;Russia;1;0;FIFA World Cup;Yokohama;Japan;;;FALSE;Japan;Russia;1;#N/D
+2002;6;9;Mexico 2 x 1 Ecuador;Mexico;Ecuador;2;1;FIFA World Cup;Rifu;Japan;;;TRUE;Mexico;Ecuador;1;#N/D
+2002;6;10;South Korea 1 x 1 United States;South Korea;United States;1;1;FIFA World Cup;Daegu;South Korea;;;FALSE;Draw;Draw;0;#N/D
+2002;6;10;Portugal 4 x 0 Poland;Portugal;Poland;4;0;FIFA World Cup;Jeonju;South Korea;;;TRUE;Portugal;Poland;4;#N/D
+2002;6;10;Tunisia 1 x 1 Belgium;Tunisia;Belgium;1;1;FIFA World Cup;?ita;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;11;Cameroon 0 x 2 Germany;Cameroon;Germany;0;2;FIFA World Cup;Fukuroi;Japan;;;TRUE;Germany;Cameroon;2;#N/D
+2002;6;11;Denmark 2 x 0 France;Denmark;France;2;0;FIFA World Cup;Incheon;South Korea;;;TRUE;Denmark;France;2;#N/D
+2002;6;11;Saudi Arabia 0 x 3 Republic of Ireland;Saudi Arabia;Republic of Ireland;0;3;FIFA World Cup;Yokohama;Japan;;;TRUE;Republic of Ireland;Saudi Arabia;3;#N/D
+2002;6;11;Senegal 3 x 3 Uruguay;Senegal;Uruguay;3;3;FIFA World Cup;Suwon;South Korea;;;TRUE;Draw;Draw;0;#N/D
+2002;6;12;Nigeria 0 x 0 England;Nigeria;England;0;0;FIFA World Cup;Osaka;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;12;Slovenia 1 x 3 Paraguay;Slovenia;Paraguay;1;3;FIFA World Cup;Seogwipo;South Korea;;;TRUE;Paraguay;Slovenia;2;#N/D
+2002;6;12;South Africa 2 x 3 Spain;South Africa;Spain;2;3;FIFA World Cup;Daejeon;South Korea;;;TRUE;Spain;South Africa;1;#N/D
+2002;6;12;Sweden 1 x 1 Argentina;Sweden;Argentina;1;1;FIFA World Cup;Rifu;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;13;Costa Rica 2 x 5 Brazil;Costa Rica;Brazil;2;5;FIFA World Cup;Suwon;South Korea;;;TRUE;Brazil;Costa Rica;3;BR
+2002;6;13;Ecuador 1 x 0 Croatia;Ecuador;Croatia;1;0;FIFA World Cup;Yokohama;Japan;;;TRUE;Ecuador;Croatia;1;#N/D
+2002;6;13;Mexico 1 x 1 Italy;Mexico;Italy;1;1;FIFA World Cup;?ita;Japan;;;TRUE;Draw;Draw;0;#N/D
+2002;6;13;Turkey 3 x 0 China PR;Turkey;China PR;3;0;FIFA World Cup;Seoul;South Korea;;;TRUE;Turkey;China PR;3;#N/D
+2002;6;14;Belgium 3 x 2 Russia;Belgium;Russia;3;2;FIFA World Cup;Fukuroi;Japan;;;TRUE;Belgium;Russia;1;#N/D
+2002;6;14;Japan 2 x 0 Tunisia;Japan;Tunisia;2;0;FIFA World Cup;Osaka;Japan;;;FALSE;Japan;Tunisia;2;#N/D
+2002;6;14;South Korea 1 x 0 Portugal;South Korea;Portugal;1;0;FIFA World Cup;Incheon;South Korea;;;FALSE;South Korea;Portugal;1;#N/D
+2002;6;14;Poland 3 x 1 United States;Poland;United States;3;1;FIFA World Cup;Daejeon;South Korea;;;TRUE;Poland;United States;2;#N/D
+2002;6;15;Denmark 0 x 3 England;Denmark;England;0;3;FIFA World Cup;Niigata;Japan;;;TRUE;England;Denmark;3;#N/D
+2002;6;15;Germany 1 x 0 Paraguay;Germany;Paraguay;1;0;FIFA World Cup;Seogwipo;South Korea;;;TRUE;Germany;Paraguay;1;#N/D
+2002;6;16;Spain 1 x 1 Republic of Ireland;Spain;Republic of Ireland;1;1;FIFA World Cup;Suwon;South Korea;;;TRUE;Draw;Draw;0;#N/D
+2002;6;16;Sweden 1 x 2 Senegal;Sweden;Senegal;1;2;FIFA World Cup;?ita;Japan;;;TRUE;Senegal;Sweden;1;#N/D
+2002;6;17;Brazil 2 x 0 Belgium;Brazil;Belgium;2;0;FIFA World Cup;Kobe;Japan;;;TRUE;Brazil;Belgium;2;BR
+2002;6;17;Mexico 0 x 2 United States;Mexico;United States;0;2;FIFA World Cup;Jeonju;South Korea;;;TRUE;United States;Mexico;2;#N/D
+2002;6;18;Japan 0 x 1 Turkey;Japan;Turkey;0;1;FIFA World Cup;Rifu;Japan;;;FALSE;Turkey;Japan;1;#N/D
+2002;6;18;South Korea 2 x 1 Italy;South Korea;Italy;2;1;FIFA World Cup;Daejeon;South Korea;;;FALSE;South Korea;Italy;1;#N/D
+2002;6;21;England 1 x 2 Brazil;England;Brazil;1;2;FIFA World Cup;Fukuroi;Japan;;;TRUE;Brazil;England;1;BR
+2002;6;21;Germany 1 x 0 United States;Germany;United States;1;0;FIFA World Cup;Ulsan;South Korea;;;TRUE;Germany;United States;1;#N/D
+2002;6;22;South Korea 0 x 0 Spain;South Korea;Spain;0;0;FIFA World Cup;Gwangju;South Korea;;;FALSE;Draw;Draw;0;#N/D
+2002;6;22;Senegal 0 x 1 Turkey;Senegal;Turkey;0;1;FIFA World Cup;Osaka;Japan;;;TRUE;Turkey;Senegal;1;#N/D
+2002;6;25;South Korea 0 x 1 Germany;South Korea;Germany;0;1;FIFA World Cup;Seoul;South Korea;;;FALSE;Germany;South Korea;1;#N/D
+2002;6;26;Brazil 1 x 0 Turkey;Brazil;Turkey;1;0;FIFA World Cup;Saitama;Japan;;;TRUE;Brazil;Turkey;1;BR
+2002;6;29;South Korea 2 x 3 Turkey;South Korea;Turkey;2;3;FIFA World Cup;Daegu;South Korea;;;FALSE;Turkey;South Korea;1;#N/D
+2002;6;30;Germany 0 x 2 Brazil;Germany;Brazil;0;2;FIFA World Cup;Yokohama;Japan;;;TRUE;Brazil;Germany;2;BR
+2006;6;9;Germany 4 x 2 Costa Rica;Germany;Costa Rica;4;2;FIFA World Cup;Munich;Germany;;;FALSE;Germany;Costa Rica;2;#N/D
+2006;6;9;Poland 0 x 2 Ecuador;Poland;Ecuador;0;2;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Ecuador;Poland;2;#N/D
+2006;6;10;Argentina 2 x 1 Ivory Coast;Argentina;Ivory Coast;2;1;FIFA World Cup;Hamburg;Germany;;;TRUE;Argentina;Ivory Coast;1;#N/D
+2006;6;10;England 1 x 0 Paraguay;England;Paraguay;1;0;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;England;Paraguay;1;#N/D
+2006;6;10;Trinidad and Tobago 0 x 0 Sweden;Trinidad and Tobago;Sweden;0;0;FIFA World Cup;Dortmund;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;11;Angola 0 x 1 Portugal;Angola;Portugal;0;1;FIFA World Cup;Cologne;Germany;;;TRUE;Portugal;Angola;1;#N/D
+2006;6;11;Mexico 3 x 1 Iran;Mexico;Iran;3;1;FIFA World Cup;Nuremberg;Germany;;;TRUE;Mexico;Iran;2;#N/D
+2006;6;11;Serbia 0 x 1 Netherlands;Serbia;Netherlands;0;1;FIFA World Cup;Leipzig;Germany;;;TRUE;Netherlands;Serbia;1;#N/D
+2006;6;12;Australia 3 x 1 Japan;Australia;Japan;3;1;FIFA World Cup;Kaiserslautern;Germany;;;TRUE;Australia;Japan;2;#N/D
+2006;6;12;Italy 2 x 0 Ghana;Italy;Ghana;2;0;FIFA World Cup;Hanover;Germany;;;TRUE;Italy;Ghana;2;#N/D
+2006;6;12;United States 0 x 3 Czech Republic;United States;Czech Republic;0;3;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Czech Republic;United States;3;#N/D
+2006;6;13;Brazil 1 x 0 Croatia;Brazil;Croatia;1;0;FIFA World Cup;Berlin;Germany;;;TRUE;Brazil;Croatia;1;BR
+2006;6;13;France 0 x 0 Switzerland;France;Switzerland;0;0;FIFA World Cup;Stuttgart;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;13;South Korea 2 x 1 Togo;South Korea;Togo;2;1;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;South Korea;Togo;1;#N/D
+2006;6;14;Germany 1 x 0 Poland;Germany;Poland;1;0;FIFA World Cup;Dortmund;Germany;;;FALSE;Germany;Poland;1;#N/D
+2006;6;14;Spain 4 x 0 Ukraine;Spain;Ukraine;4;0;FIFA World Cup;Leipzig;Germany;;;TRUE;Spain;Ukraine;4;#N/D
+2006;6;14;Tunisia 2 x 2 Saudi Arabia;Tunisia;Saudi Arabia;2;2;FIFA World Cup;Munich;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;15;Ecuador 3 x 0 Costa Rica;Ecuador;Costa Rica;3;0;FIFA World Cup;Hamburg;Germany;;;TRUE;Ecuador;Costa Rica;3;#N/D
+2006;6;15;England 2 x 0 Trinidad and Tobago;England;Trinidad and Tobago;2;0;FIFA World Cup;Nuremberg;Germany;;;TRUE;England;Trinidad and Tobago;2;#N/D
+2006;6;15;Sweden 1 x 0 Paraguay;Sweden;Paraguay;1;0;FIFA World Cup;Berlin;Germany;;;TRUE;Sweden;Paraguay;1;#N/D
+2006;6;16;Argentina 6 x 0 Serbia;Argentina;Serbia;6;0;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Argentina;Serbia;6;#N/D
+2006;6;16;Mexico 0 x 0 Angola;Mexico;Angola;0;0;FIFA World Cup;Hanover;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;16;Netherlands 2 x 1 Ivory Coast;Netherlands;Ivory Coast;2;1;FIFA World Cup;Stuttgart;Germany;;;TRUE;Netherlands;Ivory Coast;1;#N/D
+2006;6;17;Czech Republic 0 x 2 Ghana;Czech Republic;Ghana;0;2;FIFA World Cup;Cologne;Germany;;;TRUE;Ghana;Czech Republic;2;#N/D
+2006;6;17;Italy 1 x 1 United States;Italy;United States;1;1;FIFA World Cup;Kaiserslautern;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;17;Portugal 2 x 0 Iran;Portugal;Iran;2;0;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;Portugal;Iran;2;#N/D
+2006;6;18;Brazil 2 x 0 Australia;Brazil;Australia;2;0;FIFA World Cup;Munich;Germany;;;TRUE;Brazil;Australia;2;BR
+2006;6;18;France 1 x 1 South Korea;France;South Korea;1;1;FIFA World Cup;Leipzig;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;18;Japan 0 x 0 Croatia;Japan;Croatia;0;0;FIFA World Cup;Nuremberg;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;19;Saudi Arabia 0 x 4 Ukraine;Saudi Arabia;Ukraine;0;4;FIFA World Cup;Hamburg;Germany;;;TRUE;Ukraine;Saudi Arabia;4;#N/D
+2006;6;19;Spain 3 x 1 Tunisia;Spain;Tunisia;3;1;FIFA World Cup;Stuttgart;Germany;;;TRUE;Spain;Tunisia;2;#N/D
+2006;6;19;Togo 0 x 2 Switzerland;Togo;Switzerland;0;2;FIFA World Cup;Dortmund;Germany;;;TRUE;Switzerland;Togo;2;#N/D
+2006;6;20;Costa Rica 1 x 2 Poland;Costa Rica;Poland;1;2;FIFA World Cup;Hanover;Germany;;;TRUE;Poland;Costa Rica;1;#N/D
+2006;6;20;Germany 3 x 0 Ecuador;Germany;Ecuador;3;0;FIFA World Cup;Berlin;Germany;;;FALSE;Germany;Ecuador;3;#N/D
+2006;6;20;Paraguay 2 x 0 Trinidad and Tobago;Paraguay;Trinidad and Tobago;2;0;FIFA World Cup;Kaiserslautern;Germany;;;TRUE;Paraguay;Trinidad and Tobago;2;#N/D
+2006;6;20;Sweden 2 x 2 England;Sweden;England;2;2;FIFA World Cup;Cologne;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;21;Iran 1 x 1 Angola;Iran;Angola;1;1;FIFA World Cup;Leipzig;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;21;Ivory Coast 3 x 2 Serbia;Ivory Coast;Serbia;3;2;FIFA World Cup;Munich;Germany;;;TRUE;Ivory Coast;Serbia;1;#N/D
+2006;6;21;Netherlands 0 x 0 Argentina;Netherlands;Argentina;0;0;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;21;Portugal 2 x 1 Mexico;Portugal;Mexico;2;1;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Portugal;Mexico;1;#N/D
+2006;6;22;Croatia 2 x 2 Australia;Croatia;Australia;2;2;FIFA World Cup;Stuttgart;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;22;Czech Republic 0 x 2 Italy;Czech Republic;Italy;0;2;FIFA World Cup;Hamburg;Germany;;;TRUE;Italy;Czech Republic;2;#N/D
+2006;6;22;Ghana 2 x 1 United States;Ghana;United States;2;1;FIFA World Cup;Nuremberg;Germany;;;TRUE;Ghana;United States;1;#N/D
+2006;6;22;Japan 1 x 4 Brazil;Japan;Brazil;1;4;FIFA World Cup;Dortmund;Germany;;;TRUE;Brazil;Japan;3;BR
+2006;6;23;Saudi Arabia 0 x 1 Spain;Saudi Arabia;Spain;0;1;FIFA World Cup;Kaiserslautern;Germany;;;TRUE;Spain;Saudi Arabia;1;#N/D
+2006;6;23;Switzerland 2 x 0 South Korea;Switzerland;South Korea;2;0;FIFA World Cup;Hanover;Germany;;;TRUE;Switzerland;South Korea;2;#N/D
+2006;6;23;Togo 0 x 2 France;Togo;France;0;2;FIFA World Cup;Cologne;Germany;;;TRUE;France;Togo;2;#N/D
+2006;6;23;Ukraine 1 x 0 Tunisia;Ukraine;Tunisia;1;0;FIFA World Cup;Berlin;Germany;;;TRUE;Ukraine;Tunisia;1;#N/D
+2006;6;24;Argentina 2 x 1 Mexico;Argentina;Mexico;2;1;FIFA World Cup;Leipzig;Germany;;;TRUE;Argentina;Mexico;1;#N/D
+2006;6;24;Germany 2 x 0 Sweden;Germany;Sweden;2;0;FIFA World Cup;Munich;Germany;;;FALSE;Germany;Sweden;2;#N/D
+2006;6;25;England 1 x 0 Ecuador;England;Ecuador;1;0;FIFA World Cup;Stuttgart;Germany;;;TRUE;England;Ecuador;1;#N/D
+2006;6;25;Portugal 1 x 0 Netherlands;Portugal;Netherlands;1;0;FIFA World Cup;Nuremberg;Germany;;;TRUE;Portugal;Netherlands;1;#N/D
+2006;6;26;Italy 1 x 0 Australia;Italy;Australia;1;0;FIFA World Cup;Kaiserslautern;Germany;;;TRUE;Italy;Australia;1;#N/D
+2006;6;26;Switzerland 0 x 0 Ukraine;Switzerland;Ukraine;0;0;FIFA World Cup;Cologne;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;6;27;Brazil 3 x 0 Ghana;Brazil;Ghana;3;0;FIFA World Cup;Dortmund;Germany;;;TRUE;Brazil;Ghana;3;BR
+2006;6;27;Spain 1 x 3 France;Spain;France;1;3;FIFA World Cup;Hanover;Germany;;;TRUE;France;Spain;2;#N/D
+2006;6;30;Germany 1 x 1 Argentina;Germany;Argentina;1;1;FIFA World Cup;Berlin;Germany;;;FALSE;Draw;Draw;0;#N/D
+2006;6;30;Italy 3 x 0 Ukraine;Italy;Ukraine;3;0;FIFA World Cup;Hamburg;Germany;;;TRUE;Italy;Ukraine;3;#N/D
+2006;7;1;Brazil 0 x 1 France;Brazil;France;0;1;FIFA World Cup;Frankfurt am Main;Germany;;;TRUE;France;Brazil;1;BR
+2006;7;1;England 0 x 0 Portugal;England;Portugal;0;0;FIFA World Cup;Gelsenkirchen;Germany;;;TRUE;Draw;Draw;0;#N/D
+2006;7;4;Germany 0 x 2 Italy;Germany;Italy;0;2;FIFA World Cup;Dortmund;Germany;;;FALSE;Italy;Germany;2;#N/D
+2006;7;5;Portugal 0 x 1 France;Portugal;France;0;1;FIFA World Cup;Munich;Germany;;;TRUE;France;Portugal;1;#N/D
+2006;7;8;Germany 3 x 1 Portugal;Germany;Portugal;3;1;FIFA World Cup;Stuttgart;Germany;;;FALSE;Germany;Portugal;2;#N/D
+2006;7;9;Italy 1 x 1 France;Italy;France;1;1;FIFA World Cup;Berlin;Germany;;;TRUE;Draw;Draw;0;#N/D
+2010;6;11;South Africa 1 x 1 Mexico;South Africa;Mexico;1;1;FIFA World Cup;Johannesburg;South Africa;;;FALSE;Draw;Draw;0;#N/D
+2010;6;11;Uruguay 0 x 0 France;Uruguay;France;0;0;FIFA World Cup;Cape Town;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;12;Argentina 1 x 0 Nigeria;Argentina;Nigeria;1;0;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Argentina;Nigeria;1;#N/D
+2010;6;12;England 1 x 1 United States;England;United States;1;1;FIFA World Cup;Rustenburg;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;12;South Korea 2 x 0 Greece;South Korea;Greece;2;0;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;South Korea;Greece;2;#N/D
+2010;6;13;Algeria 0 x 1 Slovenia;Algeria;Slovenia;0;1;FIFA World Cup;Polokwane;South Africa;;;TRUE;Slovenia;Algeria;1;#N/D
+2010;6;13;Germany 4 x 0 Australia;Germany;Australia;4;0;FIFA World Cup;Durban;South Africa;;;TRUE;Germany;Australia;4;#N/D
+2010;6;13;Serbia 0 x 1 Ghana;Serbia;Ghana;0;1;FIFA World Cup;Pretoria;South Africa;;;TRUE;Ghana;Serbia;1;#N/D
+2010;6;14;Italy 1 x 1 Paraguay;Italy;Paraguay;1;1;FIFA World Cup;Cape Town;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;14;Japan 1 x 0 Cameroon;Japan;Cameroon;1;0;FIFA World Cup;Bloemfontein;South Africa;;;TRUE;Japan;Cameroon;1;#N/D
+2010;6;14;Netherlands 2 x 0 Denmark;Netherlands;Denmark;2;0;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Netherlands;Denmark;2;#N/D
+2010;6;15;Brazil 2 x 1 North Korea;Brazil;North Korea;2;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Brazil;North Korea;1;BR
+2010;6;15;Ivory Coast 0 x 0 Portugal;Ivory Coast;Portugal;0;0;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;15;New Zealand 1 x 1 Slovakia;New Zealand;Slovakia;1;1;FIFA World Cup;Rustenburg;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;16;Honduras 0 x 1 Chile;Honduras;Chile;0;1;FIFA World Cup;Nelspruit;South Africa;;;TRUE;Chile;Honduras;1;#N/D
+2010;6;16;South Africa 0 x 3 Uruguay;South Africa;Uruguay;0;3;FIFA World Cup;Pretoria;South Africa;;;FALSE;Uruguay;South Africa;3;#N/D
+2010;6;16;Spain 0 x 1 Switzerland;Spain;Switzerland;0;1;FIFA World Cup;Durban;South Africa;;;TRUE;Switzerland;Spain;1;#N/D
+2010;6;17;Argentina 4 x 1 South Korea;Argentina;South Korea;4;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Argentina;South Korea;3;#N/D
+2010;6;17;France 0 x 2 Mexico;France;Mexico;0;2;FIFA World Cup;Polokwane;South Africa;;;TRUE;Mexico;France;2;#N/D
+2010;6;17;Greece 2 x 1 Nigeria;Greece;Nigeria;2;1;FIFA World Cup;Bloemfontein;South Africa;;;TRUE;Greece;Nigeria;1;#N/D
+2010;6;18;England 0 x 0 Algeria;England;Algeria;0;0;FIFA World Cup;Cape Town;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;18;Germany 0 x 1 Serbia;Germany;Serbia;0;1;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;Serbia;Germany;1;#N/D
+2010;6;18;Slovenia 2 x 2 United States;Slovenia;United States;2;2;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;19;Cameroon 1 x 2 Denmark;Cameroon;Denmark;1;2;FIFA World Cup;Pretoria;South Africa;;;TRUE;Denmark;Cameroon;1;#N/D
+2010;6;19;Ghana 1 x 1 Australia;Ghana;Australia;1;1;FIFA World Cup;Rustenburg;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;19;Netherlands 1 x 0 Japan;Netherlands;Japan;1;0;FIFA World Cup;Durban;South Africa;;;TRUE;Netherlands;Japan;1;#N/D
+2010;6;20;Brazil 3 x 1 Ivory Coast;Brazil;Ivory Coast;3;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Brazil;Ivory Coast;2;BR
+2010;6;20;Italy 1 x 1 New Zealand;Italy;New Zealand;1;1;FIFA World Cup;Nelspruit;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;20;Slovakia 0 x 2 Paraguay;Slovakia;Paraguay;0;2;FIFA World Cup;Bloemfontein;South Africa;;;TRUE;Paraguay;Slovakia;2;#N/D
+2010;6;21;Chile 1 x 0 Switzerland;Chile;Switzerland;1;0;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;Chile;Switzerland;1;#N/D
+2010;6;21;Portugal 7 x 0 North Korea;Portugal;North Korea;7;0;FIFA World Cup;Cape Town;South Africa;;;TRUE;Portugal;North Korea;7;#N/D
+2010;6;21;Spain 2 x 0 Honduras;Spain;Honduras;2;0;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Spain;Honduras;2;#N/D
+2010;6;22;Greece 0 x 2 Argentina;Greece;Argentina;0;2;FIFA World Cup;Polokwane;South Africa;;;TRUE;Argentina;Greece;2;#N/D
+2010;6;22;Mexico 0 x 1 Uruguay;Mexico;Uruguay;0;1;FIFA World Cup;Rustenburg;South Africa;;;TRUE;Uruguay;Mexico;1;#N/D
+2010;6;22;Nigeria 2 x 2 South Korea;Nigeria;South Korea;2;2;FIFA World Cup;Durban;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;22;South Africa 2 x 1 France;South Africa;France;2;1;FIFA World Cup;Bloemfontein;South Africa;;;FALSE;South Africa;France;1;#N/D
+2010;6;23;Australia 2 x 1 Serbia;Australia;Serbia;2;1;FIFA World Cup;Nelspruit;South Africa;;;TRUE;Australia;Serbia;1;#N/D
+2010;6;23;Ghana 0 x 1 Germany;Ghana;Germany;0;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Germany;Ghana;1;#N/D
+2010;6;23;Slovenia 0 x 1 England;Slovenia;England;0;1;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;England;Slovenia;1;#N/D
+2010;6;23;United States 1 x 0 Algeria;United States;Algeria;1;0;FIFA World Cup;Pretoria;South Africa;;;TRUE;United States;Algeria;1;#N/D
+2010;6;24;Cameroon 1 x 2 Netherlands;Cameroon;Netherlands;1;2;FIFA World Cup;Cape Town;South Africa;;;TRUE;Netherlands;Cameroon;1;#N/D
+2010;6;24;Denmark 1 x 3 Japan;Denmark;Japan;1;3;FIFA World Cup;Rustenburg;South Africa;;;TRUE;Japan;Denmark;2;#N/D
+2010;6;24;Paraguay 0 x 0 New Zealand;Paraguay;New Zealand;0;0;FIFA World Cup;Polokwane;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;24;Slovakia 3 x 2 Italy;Slovakia;Italy;3;2;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Slovakia;Italy;1;#N/D
+2010;6;25;Chile 1 x 2 Spain;Chile;Spain;1;2;FIFA World Cup;Pretoria;South Africa;;;TRUE;Spain;Chile;1;#N/D
+2010;6;25;North Korea 0 x 3 Ivory Coast;North Korea;Ivory Coast;0;3;FIFA World Cup;Nelspruit;South Africa;;;TRUE;Ivory Coast;North Korea;3;#N/D
+2010;6;25;Portugal 0 x 0 Brazil;Portugal;Brazil;0;0;FIFA World Cup;Durban;South Africa;;;TRUE;Draw;Draw;0;BR
+2010;6;25;Switzerland 0 x 0 Honduras;Switzerland;Honduras;0;0;FIFA World Cup;Bloemfontein;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;26;Uruguay 2 x 1 South Korea;Uruguay;South Korea;2;1;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;Uruguay;South Korea;1;#N/D
+2010;6;26;United States 1 x 2 Ghana;United States;Ghana;1;2;FIFA World Cup;Rustenburg;South Africa;;;TRUE;Ghana;United States;1;#N/D
+2010;6;27;Argentina 3 x 1 Mexico;Argentina;Mexico;3;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Argentina;Mexico;2;#N/D
+2010;6;27;Germany 4 x 1 England;Germany;England;4;1;FIFA World Cup;Bloemfontein;South Africa;;;TRUE;Germany;England;3;#N/D
+2010;6;28;Brazil 3 x 0 Chile;Brazil;Chile;3;0;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Brazil;Chile;3;BR
+2010;6;28;Netherlands 2 x 1 Slovakia;Netherlands;Slovakia;2;1;FIFA World Cup;Durban;South Africa;;;TRUE;Netherlands;Slovakia;1;#N/D
+2010;6;29;Paraguay 0 x 0 Japan;Paraguay;Japan;0;0;FIFA World Cup;Pretoria;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;6;29;Spain 1 x 0 Portugal;Spain;Portugal;1;0;FIFA World Cup;Cape Town;South Africa;;;TRUE;Spain;Portugal;1;#N/D
+2010;7;2;Netherlands 2 x 1 Brazil;Netherlands;Brazil;2;1;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;Netherlands;Brazil;1;BR
+2010;7;2;Uruguay 1 x 1 Ghana;Uruguay;Ghana;1;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Draw;Draw;0;#N/D
+2010;7;3;Argentina 0 x 4 Germany;Argentina;Germany;0;4;FIFA World Cup;Cape Town;South Africa;;;TRUE;Germany;Argentina;4;#N/D
+2010;7;3;Paraguay 0 x 1 Spain;Paraguay;Spain;0;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Spain;Paraguay;1;#N/D
+2010;7;6;Uruguay 2 x 3 Netherlands;Uruguay;Netherlands;2;3;FIFA World Cup;Cape Town;South Africa;;;TRUE;Netherlands;Uruguay;1;#N/D
+2010;7;7;Germany 0 x 1 Spain;Germany;Spain;0;1;FIFA World Cup;Durban;South Africa;;;TRUE;Spain;Germany;1;#N/D
+2010;7;10;Uruguay 2 x 3 Germany;Uruguay;Germany;2;3;FIFA World Cup;Port Elizabeth;South Africa;;;TRUE;Germany;Uruguay;1;#N/D
+2010;7;11;Netherlands 0 x 1 Spain;Netherlands;Spain;0;1;FIFA World Cup;Johannesburg;South Africa;;;TRUE;Spain;Netherlands;1;#N/D
+2014;6;12;Brazil 3 x 1 Croatia;Brazil;Croatia;3;1;FIFA World Cup;São Paulo;Brazil;;;FALSE;Brazil;Croatia;2;BR
+2014;6;13;Chile 3 x 1 Australia;Chile;Australia;3;1;FIFA World Cup;Cuiabá;Brazil;;;TRUE;Chile;Australia;2;#N/D
+2014;6;13;Mexico 1 x 0 Cameroon;Mexico;Cameroon;1;0;FIFA World Cup;Natal;Brazil;;;TRUE;Mexico;Cameroon;1;#N/D
+2014;6;13;Spain 1 x 5 Netherlands;Spain;Netherlands;1;5;FIFA World Cup;Salvador;Brazil;;;TRUE;Netherlands;Spain;4;#N/D
+2014;6;14;Colombia 3 x 0 Greece;Colombia;Greece;3;0;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;Colombia;Greece;3;#N/D
+2014;6;14;England 1 x 2 Italy;England;Italy;1;2;FIFA World Cup;Manaus;Brazil;;;TRUE;Italy;England;1;#N/D
+2014;6;14;Ivory Coast 2 x 1 Japan;Ivory Coast;Japan;2;1;FIFA World Cup;Recife;Brazil;;;TRUE;Ivory Coast;Japan;1;#N/D
+2014;6;14;Uruguay 1 x 3 Costa Rica;Uruguay;Costa Rica;1;3;FIFA World Cup;Fortaleza;Brazil;;;TRUE;Costa Rica;Uruguay;2;#N/D
+2014;6;15;Argentina 2 x 1 Bosnia and Herzegovina;Argentina;Bosnia and Herzegovina;2;1;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Argentina;Bosnia and Herzegovina;1;#N/D
+2014;6;15;France 3 x 0 Honduras;France;Honduras;3;0;FIFA World Cup;Porto Alegre;Brazil;;;TRUE;France;Honduras;3;#N/D
+2014;6;15;Switzerland 2 x 1 Ecuador;Switzerland;Ecuador;2;1;FIFA World Cup;Brasília;Brazil;;;TRUE;Switzerland;Ecuador;1;#N/D
+2014;6;16;Germany 4 x 0 Portugal;Germany;Portugal;4;0;FIFA World Cup;Salvador;Brazil;;;TRUE;Germany;Portugal;4;#N/D
+2014;6;16;Ghana 1 x 2 United States;Ghana;United States;1;2;FIFA World Cup;Natal;Brazil;;;TRUE;United States;Ghana;1;#N/D
+2014;6;16;Iran 0 x 0 Nigeria;Iran;Nigeria;0;0;FIFA World Cup;Curitiba;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;17;Belgium 2 x 1 Algeria;Belgium;Algeria;2;1;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;Belgium;Algeria;1;#N/D
+2014;6;17;Brazil 0 x 0 Mexico;Brazil;Mexico;0;0;FIFA World Cup;Fortaleza;Brazil;;;FALSE;Draw;Draw;0;BR
+2014;6;17;Russia 1 x 1 South Korea;Russia;South Korea;1;1;FIFA World Cup;Cuiabá;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;18;Australia 2 x 3 Netherlands;Australia;Netherlands;2;3;FIFA World Cup;Curitiba;Brazil;;;TRUE;Netherlands;Australia;1;#N/D
+2014;6;18;Cameroon 0 x 4 Croatia;Cameroon;Croatia;0;4;FIFA World Cup;Manaus;Brazil;;;TRUE;Croatia;Cameroon;4;#N/D
+2014;6;18;Spain 0 x 2 Chile;Spain;Chile;0;2;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Chile;Spain;2;#N/D
+2014;6;19;Colombia 2 x 1 Ivory Coast;Colombia;Ivory Coast;2;1;FIFA World Cup;Brasília;Brazil;;;TRUE;Colombia;Ivory Coast;1;#N/D
+2014;6;19;Japan 0 x 0 Greece;Japan;Greece;0;0;FIFA World Cup;Natal;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;19;Uruguay 2 x 1 England;Uruguay;England;2;1;FIFA World Cup;São Paulo;Brazil;;;TRUE;Uruguay;England;1;#N/D
+2014;6;20;Honduras 1 x 2 Ecuador;Honduras;Ecuador;1;2;FIFA World Cup;Curitiba;Brazil;;;TRUE;Ecuador;Honduras;1;#N/D
+2014;6;20;Italy 0 x 1 Costa Rica;Italy;Costa Rica;0;1;FIFA World Cup;Recife;Brazil;;;TRUE;Costa Rica;Italy;1;#N/D
+2014;6;20;Switzerland 2 x 5 France;Switzerland;France;2;5;FIFA World Cup;Salvador;Brazil;;;TRUE;France;Switzerland;3;#N/D
+2014;6;21;Argentina 1 x 0 Iran;Argentina;Iran;1;0;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;Argentina;Iran;1;#N/D
+2014;6;21;Germany 2 x 2 Ghana;Germany;Ghana;2;2;FIFA World Cup;Fortaleza;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;21;Nigeria 1 x 0 Bosnia and Herzegovina;Nigeria;Bosnia and Herzegovina;1;0;FIFA World Cup;Cuiabá;Brazil;;;TRUE;Nigeria;Bosnia and Herzegovina;1;#N/D
+2014;6;22;Belgium 1 x 0 Russia;Belgium;Russia;1;0;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Belgium;Russia;1;#N/D
+2014;6;22;South Korea 2 x 4 Algeria;South Korea;Algeria;2;4;FIFA World Cup;Porto Alegre;Brazil;;;TRUE;Algeria;South Korea;2;#N/D
+2014;6;22;United States 2 x 2 Portugal;United States;Portugal;2;2;FIFA World Cup;Manaus;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;23;Australia 0 x 3 Spain;Australia;Spain;0;3;FIFA World Cup;Curitiba;Brazil;;;TRUE;Spain;Australia;3;#N/D
+2014;6;23;Brazil 4 x 1 Cameroon;Brazil;Cameroon;4;1;FIFA World Cup;Brasília;Brazil;;;FALSE;Brazil;Cameroon;3;BR
+2014;6;23;Croatia 1 x 3 Mexico;Croatia;Mexico;1;3;FIFA World Cup;Recife;Brazil;;;TRUE;Mexico;Croatia;2;#N/D
+2014;6;23;Netherlands 2 x 0 Chile;Netherlands;Chile;2;0;FIFA World Cup;São Paulo;Brazil;;;TRUE;Netherlands;Chile;2;#N/D
+2014;6;24;Costa Rica 0 x 0 England;Costa Rica;England;0;0;FIFA World Cup;Belo Horizonte;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;24;Greece 2 x 1 Ivory Coast;Greece;Ivory Coast;2;1;FIFA World Cup;Fortaleza;Brazil;;;TRUE;Greece;Ivory Coast;1;#N/D
+2014;6;24;Italy 0 x 1 Uruguay;Italy;Uruguay;0;1;FIFA World Cup;Natal;Brazil;;;TRUE;Uruguay;Italy;1;#N/D
+2014;6;24;Japan 1 x 4 Colombia;Japan;Colombia;1;4;FIFA World Cup;Cuiabá;Brazil;;;TRUE;Colombia;Japan;3;#N/D
+2014;6;25;Bosnia and Herzegovina 3 x 1 Iran;Bosnia and Herzegovina;Iran;3;1;FIFA World Cup;Salvador;Brazil;;;TRUE;Bosnia and Herzegovina;Iran;2;#N/D
+2014;6;25;Ecuador 0 x 0 France;Ecuador;France;0;0;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;25;Honduras 0 x 3 Switzerland;Honduras;Switzerland;0;3;FIFA World Cup;Manaus;Brazil;;;TRUE;Switzerland;Honduras;3;#N/D
+2014;6;25;Nigeria 2 x 3 Argentina;Nigeria;Argentina;2;3;FIFA World Cup;Porto Alegre;Brazil;;;TRUE;Argentina;Nigeria;1;#N/D
+2014;6;26;Algeria 1 x 1 Russia;Algeria;Russia;1;1;FIFA World Cup;Curitiba;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;26;South Korea 0 x 1 Belgium;South Korea;Belgium;0;1;FIFA World Cup;São Paulo;Brazil;;;TRUE;Belgium;South Korea;1;#N/D
+2014;6;26;Portugal 2 x 1 Ghana;Portugal;Ghana;2;1;FIFA World Cup;Brasília;Brazil;;;TRUE;Portugal;Ghana;1;#N/D
+2014;6;26;United States 0 x 1 Germany;United States;Germany;0;1;FIFA World Cup;Recife;Brazil;;;TRUE;Germany;United States;1;#N/D
+2014;6;28;Brazil 1 x 1 Chile;Brazil;Chile;1;1;FIFA World Cup;Belo Horizonte;Brazil;;;FALSE;Draw;Draw;0;BR
+2014;6;28;Colombia 2 x 0 Uruguay;Colombia;Uruguay;2;0;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Colombia;Uruguay;2;#N/D
+2014;6;29;Costa Rica 1 x 1 Greece;Costa Rica;Greece;1;1;FIFA World Cup;Recife;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;6;29;Netherlands 2 x 1 Mexico;Netherlands;Mexico;2;1;FIFA World Cup;Fortaleza;Brazil;;;TRUE;Netherlands;Mexico;1;#N/D
+2014;6;30;France 2 x 0 Nigeria;France;Nigeria;2;0;FIFA World Cup;Brasília;Brazil;;;TRUE;France;Nigeria;2;#N/D
+2014;6;30;Germany 2 x 1 Algeria;Germany;Algeria;2;1;FIFA World Cup;Porto Alegre;Brazil;;;TRUE;Germany;Algeria;1;#N/D
+2014;7;1;Argentina 1 x 0 Switzerland;Argentina;Switzerland;1;0;FIFA World Cup;São Paulo;Brazil;;;TRUE;Argentina;Switzerland;1;#N/D
+2014;7;1;Belgium 2 x 1 United States;Belgium;United States;2;1;FIFA World Cup;Salvador;Brazil;;;TRUE;Belgium;United States;1;#N/D
+2014;7;4;Brazil 2 x 1 Colombia;Brazil;Colombia;2;1;FIFA World Cup;Fortaleza;Brazil;;;FALSE;Brazil;Colombia;1;BR
+2014;7;4;France 0 x 1 Germany;France;Germany;0;1;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Germany;France;1;#N/D
+2014;7;5;Argentina 1 x 0 Belgium;Argentina;Belgium;1;0;FIFA World Cup;Brasília;Brazil;;;TRUE;Argentina;Belgium;1;#N/D
+2014;7;5;Netherlands 0 x 0 Costa Rica;Netherlands;Costa Rica;0;0;FIFA World Cup;Salvador;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;7;8;Brazil 1 x 7 Germany;Brazil;Germany;1;7;FIFA World Cup;Belo Horizonte;Brazil;;;FALSE;Germany;Brazil;6;BR
+2014;7;9;Netherlands 0 x 0 Argentina;Netherlands;Argentina;0;0;FIFA World Cup;São Paulo;Brazil;;;TRUE;Draw;Draw;0;#N/D
+2014;7;12;Brazil 0 x 3 Netherlands;Brazil;Netherlands;0;3;FIFA World Cup;Brasília;Brazil;;;FALSE;Netherlands;Brazil;3;BR
+2014;7;13;Germany 1 x 0 Argentina;Germany;Argentina;1;0;FIFA World Cup;Rio de Janeiro;Brazil;;;TRUE;Germany;Argentina;1;#N/D
+2018;6;14;Russia 5 x 0 Saudi Arabia;Russia;Saudi Arabia;5;0;FIFA World Cup;Moscow;Russia;;;FALSE;Russia;Saudi Arabia;5;#N/D
+2018;6;15;Egypt 0 x 1 Uruguay;Egypt;Uruguay;0;1;FIFA World Cup;Ekaterinburg;Russia;;;TRUE;Uruguay;Egypt;1;#N/D
+2018;6;15;Morocco 0 x 1 Iran;Morocco;Iran;0;1;FIFA World Cup;Saint Petersburg;Russia;;;TRUE;Iran;Morocco;1;#N/D
+2018;6;15;Portugal 3 x 3 Spain;Portugal;Spain;3;3;FIFA World Cup;Sochi;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;16;France 2 x 1 Australia;France;Australia;2;1;FIFA World Cup;Kazan;Russia;;;TRUE;France;Australia;1;#N/D
+2018;6;16;Argentina 1 x 1 Iceland;Argentina;Iceland;1;1;FIFA World Cup;Moscow;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;16;Peru 0 x 1 Denmark;Peru;Denmark;0;1;FIFA World Cup;Saransk;Russia;;;TRUE;Denmark;Peru;1;#N/D
+2018;6;16;Croatia 2 x 0 Nigeria;Croatia;Nigeria;2;0;FIFA World Cup;Kaliningrad;Russia;;;TRUE;Croatia;Nigeria;2;#N/D
+2018;6;17;Costa Rica 0 x 1 Serbia;Costa Rica;Serbia;0;1;FIFA World Cup;Samara;Russia;;;TRUE;Serbia;Costa Rica;1;#N/D
+2018;6;17;Germany 0 x 1 Mexico;Germany;Mexico;0;1;FIFA World Cup;Moscow;Russia;;;TRUE;Mexico;Germany;1;#N/D
+2018;6;17;Brazil 1 x 1 Switzerland;Brazil;Switzerland;1;1;FIFA World Cup;Rostov-on-Don;Russia;;;TRUE;Draw;Draw;0;BR
+2018;6;18;Sweden 1 x 0 South Korea;Sweden;South Korea;1;0;FIFA World Cup;Nizhny Novgorod;Russia;;;TRUE;Sweden;South Korea;1;#N/D
+2018;6;18;Belgium 3 x 0 Panama;Belgium;Panama;3;0;FIFA World Cup;Sochi;Russia;;;TRUE;Belgium;Panama;3;#N/D
+2018;6;18;Tunisia 1 x 2 England;Tunisia;England;1;2;FIFA World Cup;Volgograd;Russia;;;TRUE;England;Tunisia;1;#N/D
+2018;6;19;Colombia 1 x 2 Japan;Colombia;Japan;1;2;FIFA World Cup;Saransk;Russia;;;TRUE;Japan;Colombia;1;#N/D
+2018;6;19;Poland 1 x 2 Senegal;Poland;Senegal;1;2;FIFA World Cup;Moscow;Russia;;;TRUE;Senegal;Poland;1;#N/D
+2018;6;19;Russia 3 x 1 Egypt;Russia;Egypt;3;1;FIFA World Cup;Saint Petersburg;Russia;;;FALSE;Russia;Egypt;2;#N/D
+2018;6;20;Portugal 1 x 0 Morocco;Portugal;Morocco;1;0;FIFA World Cup;Moscow;Russia;;;TRUE;Portugal;Morocco;1;#N/D
+2018;6;20;Uruguay 1 x 0 Saudi Arabia;Uruguay;Saudi Arabia;1;0;FIFA World Cup;Rostov-on-Don;Russia;;;TRUE;Uruguay;Saudi Arabia;1;#N/D
+2018;6;20;Iran 0 x 1 Spain;Iran;Spain;0;1;FIFA World Cup;Kazan;Russia;;;TRUE;Spain;Iran;1;#N/D
+2018;6;21;Denmark 1 x 1 Australia;Denmark;Australia;1;1;FIFA World Cup;Samara;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;21;France 1 x 0 Peru;France;Peru;1;0;FIFA World Cup;Ekaterinburg;Russia;;;TRUE;France;Peru;1;#N/D
+2018;6;21;Argentina 0 x 3 Croatia;Argentina;Croatia;0;3;FIFA World Cup;Nizhny Novgorod;Russia;;;TRUE;Croatia;Argentina;3;#N/D
+2018;6;22;Brazil 2 x 0 Costa Rica;Brazil;Costa Rica;2;0;FIFA World Cup;Saint Petersburg;Russia;;;TRUE;Brazil;Costa Rica;2;BR
+2018;6;22;Nigeria 2 x 0 Iceland;Nigeria;Iceland;2;0;FIFA World Cup;Volgograd;Russia;;;TRUE;Nigeria;Iceland;2;#N/D
+2018;6;22;Serbia 1 x 2 Switzerland;Serbia;Switzerland;1;2;FIFA World Cup;Kaliningrad;Russia;;;TRUE;Switzerland;Serbia;1;#N/D
+2018;6;23;Belgium 5 x 2 Tunisia;Belgium;Tunisia;5;2;FIFA World Cup;Moscow;Russia;;;TRUE;Belgium;Tunisia;3;#N/D
+2018;6;23;South Korea 1 x 2 Mexico;South Korea;Mexico;1;2;FIFA World Cup;Rostov-on-Don;Russia;;;TRUE;Mexico;South Korea;1;#N/D
+2018;6;23;Germany 2 x 1 Sweden;Germany;Sweden;2;1;FIFA World Cup;Sochi;Russia;;;TRUE;Germany;Sweden;1;#N/D
+2018;6;24;England 6 x 1 Panama;England;Panama;6;1;FIFA World Cup;Nizhny Novgorod;Russia;;;TRUE;England;Panama;5;#N/D
+2018;6;24;Japan 2 x 2 Senegal;Japan;Senegal;2;2;FIFA World Cup;Ekaterinburg;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;24;Poland 0 x 3 Colombia;Poland;Colombia;0;3;FIFA World Cup;Kazan;Russia;;;TRUE;Colombia;Poland;3;#N/D
+2018;6;25;Russia 0 x 3 Uruguay;Russia;Uruguay;0;3;FIFA World Cup;Samara;Russia;;;FALSE;Uruguay;Russia;3;#N/D
+2018;6;25;Saudi Arabia 2 x 1 Egypt;Saudi Arabia;Egypt;2;1;FIFA World Cup;Volgograd;Russia;;;TRUE;Saudi Arabia;Egypt;1;#N/D
+2018;6;25;Spain 2 x 2 Morocco;Spain;Morocco;2;2;FIFA World Cup;Kaliningrad;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;25;Iran 1 x 1 Portugal;Iran;Portugal;1;1;FIFA World Cup;Saransk;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;26;Australia 0 x 2 Peru;Australia;Peru;0;2;FIFA World Cup;Sochi;Russia;;;TRUE;Peru;Australia;2;#N/D
+2018;6;26;Denmark 0 x 0 France;Denmark;France;0;0;FIFA World Cup;Moscow;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;26;Nigeria 1 x 2 Argentina;Nigeria;Argentina;1;2;FIFA World Cup;Saint Petersburg;Russia;;;TRUE;Argentina;Nigeria;1;#N/D
+2018;6;26;Iceland 1 x 2 Croatia;Iceland;Croatia;1;2;FIFA World Cup;Rostov-on-Don;Russia;;;TRUE;Croatia;Iceland;1;#N/D
+2018;6;27;South Korea 2 x 0 Germany;South Korea;Germany;2;0;FIFA World Cup;Kazan;Russia;;;TRUE;South Korea;Germany;2;#N/D
+2018;6;27;Mexico 0 x 3 Sweden;Mexico;Sweden;0;3;FIFA World Cup;Ekaterinburg;Russia;;;TRUE;Sweden;Mexico;3;#N/D
+2018;6;27;Serbia 0 x 2 Brazil;Serbia;Brazil;0;2;FIFA World Cup;Moscow;Russia;;;TRUE;Brazil;Serbia;2;BR
+2018;6;27;Switzerland 2 x 2 Costa Rica;Switzerland;Costa Rica;2;2;FIFA World Cup;Nizhny Novgorod;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;6;28;Japan 0 x 1 Poland;Japan;Poland;0;1;FIFA World Cup;Volgograd;Russia;;;TRUE;Poland;Japan;1;#N/D
+2018;6;28;Senegal 0 x 1 Colombia;Senegal;Colombia;0;1;FIFA World Cup;Samara;Russia;;;TRUE;Colombia;Senegal;1;#N/D
+2018;6;28;Panama 1 x 2 Tunisia;Panama;Tunisia;1;2;FIFA World Cup;Saransk;Russia;;;TRUE;Tunisia;Panama;1;#N/D
+2018;6;28;England 0 x 1 Belgium;England;Belgium;0;1;FIFA World Cup;Kaliningrad;Russia;;;TRUE;Belgium;England;1;#N/D
+2018;6;30;France 4 x 3 Argentina;France;Argentina;4;3;FIFA World Cup;Kazan;Russia;;;TRUE;France;Argentina;1;#N/D
+2018;6;30;Uruguay 2 x 1 Portugal;Uruguay;Portugal;2;1;FIFA World Cup;Sochi;Russia;;;TRUE;Uruguay;Portugal;1;#N/D
+2018;7;1;Russia 1 x 1 Spain;Russia;Spain;1;1;FIFA World Cup;Moscow;Russia;;;FALSE;Draw;Draw;0;#N/D
+2018;7;1;Croatia 1 x 1 Denmark;Croatia;Denmark;1;1;FIFA World Cup;Nizhny Novgorod;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;7;2;Brazil 2 x 0 Mexico;Brazil;Mexico;2;0;FIFA World Cup;Samara;Russia;;;TRUE;Brazil;Mexico;2;BR
+2018;7;2;Belgium 3 x 2 Japan;Belgium;Japan;3;2;FIFA World Cup;Rostov-on-Don;Russia;;;TRUE;Belgium;Japan;1;#N/D
+2018;7;3;Sweden 1 x 0 Switzerland;Sweden;Switzerland;1;0;FIFA World Cup;Saint Petersburg;Russia;;;TRUE;Sweden;Switzerland;1;#N/D
+2018;7;3;Colombia 1 x 1 England;Colombia;England;1;1;FIFA World Cup;Moscow;Russia;;;TRUE;Draw;Draw;0;#N/D
+2018;7;6;Uruguay 0 x 2 France;Uruguay;France;0;2;FIFA World Cup;Nizhny Novgorod;Russia;;;TRUE;France;Uruguay;2;#N/D
+2018;7;6;Brazil 1 x 2 Belgium;Brazil;Belgium;1;2;FIFA World Cup;Kazan;Russia;;;TRUE;Belgium;Brazil;1;BR
+2018;7;7;Sweden 0 x 2 England;Sweden;England;0;2;FIFA World Cup;Samara;Russia;;;TRUE;England;Sweden;2;#N/D
+2018;7;7;Russia 2 x 2 Croatia;Russia;Croatia;2;2;FIFA World Cup;Sochi;Russia;;;FALSE;Draw;Draw;0;#N/D
+2018;7;10;France 1 x 0 Belgium;France;Belgium;1;0;FIFA World Cup;Saint Petersburg;Russia;;;TRUE;France;Belgium;1;#N/D
+2018;7;11;Croatia 2 x 1 England;Croatia;England;2;1;FIFA World Cup;Moscow;Russia;;;TRUE;Croatia;England;1;#N/D
+2018;7;14;Belgium 2 x 0 England;Belgium;England;2;0;FIFA World Cup;Saint Petersburg;Russia;;;TRUE;Belgium;England;2;#N/D
+2018;7;15;France 4 x 2 Croatia;France;Croatia;4;2;FIFA World Cup;Moscow;Russia;;;TRUE;France;Croatia;2;#N/D
