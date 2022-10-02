@@ -1,0 +1,13 @@
+Descrição em Português
+Para criar as visualizações os dados foram filtrados a partir do arquivo results.csv e armazenados em Copa.csv,
+Isso foi feito utilizando manipulações em Excel e querries em SQL.
+Para achar o número de vitórias, derrotas, empates e o total de jogos, foram utilizados comandos em SQL.
+Já para achar os melhores e piores jogos da seleção brasileira colunas como: SG (Saldo de Gols), Winner e Loser foram criadas em Excel, após isso o comando WHERE foi utilizado para encontrar estes resultados.
+Por fim, para achar as seleções que mais jogos enfrentaram o Brazil, o comando COUNT em SQL foi utilizado.
+
+English Description
+To create this visualization the data was sorted and filtered out from the csv file called results.csv and stored in Copa.csv
+This sorting was made with excel manipulations and SQL querries.
+The SQL querries made were to find the number of wins, losses, ties and total in Brazilian World Cup history.
+Also, to find out the best and worse results, the columns SG (Goal Difference), Winner and Loser, were created in Excel, after that using WHERE command in SQL these matches were discovered.
+Finally, to find out which nations were most frequent against Brazil in WC matches, the command COUNT in SQL was used.
